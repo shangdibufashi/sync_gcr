@@ -25,6 +25,8 @@ image_prepare(){
 	if [ "$( hub_tag_exist $img_name $tag )" == null ]; then
 		echo "$repo:$tag => $target:$tag"
 		image_pull "$repo:$tag" "$target:$tag"
+	else
+		echo "ignored $1"
 	fi
 	echo "cache/${MY_REPO}.$img_name.$tag" > "cache/${MY_REPO}.$img_name.$tag"
 }
