@@ -26,6 +26,8 @@ image_prepare(){
 }
 
 main(){
+	pwd
+	ls -al
 	pedingList=(`xargs -n1 < images`)
 	echo "pedingList COUNT: ${#pedingList[@]}"
 	for repo in ${pedingList[@]};do
