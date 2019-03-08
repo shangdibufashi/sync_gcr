@@ -25,7 +25,7 @@ image_prepare(){
 	target="$MY_REPO/$img_name"
 	exists=$( hub_tag_exist "$img_name" "$tag" )
 	echo "$repo => $img_name $tag $exists"
-	if [ ! -n "$exists" ]; then
+	if [ null == "$exists" ]; then
 		echo "$repo:$tag => $target:$tag"
 		image_pull "$repo:$tag" "$target:$tag"
 	else
