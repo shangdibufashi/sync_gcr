@@ -89,7 +89,7 @@ auth_sdk(){
 
 #  GCR_IMAGE_NAME  tag  REPO_IMAGE_NAME
 image_tag(){
-    docker pull $1:$2
+    docker pull $1:$2 >> pull.log
     docker tag $1:$2 $3:$2
     docker rmi $1:$2
 }
@@ -256,7 +256,9 @@ main(){
     Multi_process_init $max_process
 
     GOOLE_NAMESPACE=(`xargs -n1 < $google_list`)
+    echo "GOOLE_NAMESPACE COUNT: ${#GOOLE_NAMESPACE[@]}"
     for repo in ${GOOLE_NAMESPACE[@]};do
+        echo "image_pull gcr.io/$repo google"
         image_pull gcr.io/$repo google
         sed -i '/'"$repo"'/d' $google_list;echo "$repo" >> $google_list
     done
