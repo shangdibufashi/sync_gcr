@@ -2,7 +2,7 @@
 cd `dirname $0 && pwd`
 git clone git@github.com:helm/charts.git
 
-find /charts/stable/ -name '*.yaml'  | \
+find ./charts/stable/ -name '*.yaml'  | \
 	xargs -n1 egrep -v '^\s+#|^\s*-' | \
 	egrep -A 1  '^\s+repository:' | \
 	egrep -v '^-' | \
