@@ -225,10 +225,18 @@ sync_domain_repo(){
     git_commit
 }
 
+process_images(){
+    # ./image/image_fetch.sh
+    ./image/image_process.sh
+    git add -A
+    git commit -m "Synchronizing image"
+    git push -u origin develop
+}
 
 main(){
     [ -z "$start_time" ] && start_time=$(date +%s)
     git_init
+    process_images
     # install_sdk
     # auth_sdk
     Multi_process_init $(( max_process * 4 ))
@@ -285,9 +293,6 @@ main(){
         git push -u origin develop
     fi
 }
-
-# ./image/image_fetch.sh
-./image/image_process.sh
 
 main
 
