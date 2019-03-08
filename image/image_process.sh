@@ -3,6 +3,9 @@ cd `dirname $0 && pwd`
 MY_REPO=jiapinai
 
 hub_tag_exist(){
+	if [ -f "cache/${MY_REPO}.$1.$2" ]; then
+		echo 1
+	fi 
     curl -s https://hub.docker.com/v2/repositories/${MY_REPO}/$1/tags/$2/ | jq -r .name
 }
 
@@ -22,6 +25,7 @@ image_prepare(){
 	if [ "$( hub_tag_exist $img_name $tag )" == null ]; then
 		echo "$repo:$tag => $target:$tag"
 		image_pull "$repo:$tag" "$target:$tag"
+		echo "cache/${MY_REPO}.$img_name.$tag" > "cache/${MY_REPO}.$img_name.$tag"
 	fi
 }
 
