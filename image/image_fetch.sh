@@ -1,7 +1,7 @@
 #!/bin/bash
 cd `dirname $0 && pwd`
 git clone git@github.com:helm/charts.git
-
+ls -al
 find ./charts/stable/ -name '*.yaml'  | \
 	xargs -n1 egrep -v '^\s+#|^\s*-' | \
 	egrep -A 1  '^\s+repository:' | \
@@ -14,3 +14,4 @@ find ./charts/stable/ -name '*.yaml'  | \
 	awk '{print $2":"$4}' | \
 	egrep  '\d+$' > images
 
+cat images
