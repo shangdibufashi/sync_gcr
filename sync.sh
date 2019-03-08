@@ -286,7 +286,7 @@ main(){
     fi
 }
 
-./image/image_fetch.sh
+# ./image/image_fetch.sh
 ./image/image_process.sh
 
 main
