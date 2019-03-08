@@ -1,13 +1,13 @@
 ---
 last_check:
-  etag: '"06e3a7a1d16a09736da7274cb4874a6a"'
+  etag: '"e5241b25b1fe37d96503369b8caf892d"'
   version: 1.8.9
-  at: 1552016347
+  at: 1552020551
 checked_completion: true
 completion_version: 1.8.9
 endpoints:
   https://api.travis-ci.org/:
     access_token: bbL0hHFHWOv2CQPEPxSG7Q
 repos:
-  jiapinai/gcr_sync:
+  jiapinai/sync_gcr:
     endpoint: https://api.travis-ci.org/
