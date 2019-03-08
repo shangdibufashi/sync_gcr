@@ -12,6 +12,10 @@ find ./charts/stable/ -name '*.yaml'  | \
 	sort | \
 	uniq | \
 	awk '{print $2":"$4}' | \
-	egrep  '\d+$' > images
+	egrep  '\d+$' >> images
 
-cat images
+curl 'https://www.docker.elastic.co/' | grep 'docker pull' | sed 's/<\/[a-z0-9A-Z]*>//g' | sed 's/<[a-z0-9A-Z]*>//g'| awk -F'>' '{print $2}' | awk '{print $3}'| sort | uniq >> images
+
+cat images | sort | uniq > tmp
+rm -f images
+mv tmp images
