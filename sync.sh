@@ -1,9 +1,11 @@
 #!/bin/bash
+
 max_process=$1
 MY_REPO=jiapinai
 interval=.
 max_per=70
 google_list=repo/google
+qual_list=repo/qual
 #--------------------------
 
 Multi_process_init() {
@@ -135,17 +137,17 @@ google::latest_digest(){
     curl -ks -XGET https://gcr.io/v2/${ns}/${name}/tags/list | jq -r '.manifest | with_entries(select(.value.tag[] == "latest"))|keys[]'
 }
 
-#quay::name(){
-#    NS=${1#*/}
-#    curl -sL 'https://quay.io/api/v1/repository?public=true&namespace='${NS} | jq -r '"quay.io/'${NS}'/"'" + .repositories[].name"
-#}
-#quay::tag(){
-#    curl -sL "https://quay.io/api/v1/repository/${@#*/}?tag=info"  | jq -r .tags[].name
-#}
-#quay::latest_digest(){
-# #    curl -sL "https://quay.io/api/v1/repository/prometheus/alertmanager/tag" | jq -r '.tags[]|select(.name == "latest" and (.|length) == 5 ).manifest_digest'
-#   curl -sL "https://quay.io/api/v1/repository/${@#*/}?tag=info" | jq -r '.tags[]|select(.name == "latest" and (has("end_ts")|not) ).manifest_digest'
-#}
+quay::name(){
+   NS=${1#*/}
+   curl -sL 'https://quay.io/api/v1/repository?public=true&namespace='${NS} | jq -r '"quay.io/'${NS}'/"'" + .repositories[].name"
+}
+quay::tag(){
+   curl -sL "https://quay.io/api/v1/repository/${@#*/}?tag=info"  | jq -r .tags[].name
+}
+quay::latest_digest(){
+#    curl -sL "https://quay.io/api/v1/repository/prometheus/alertmanager/tag" | jq -r '.tags[]|select(.name == "latest" and (.|length) == 5 ).manifest_digest'
+  curl -sL "https://quay.io/api/v1/repository/${@#*/}?tag=info" | jq -r '.tags[]|select(.name == "latest" and (has("end_ts")|not) ).manifest_digest'
+}
 
 
 image_pull(){
@@ -255,12 +257,22 @@ main(){
     
     Multi_process_init $max_process
 
+    # gcr.io
     GOOLE_NAMESPACE=(`xargs -n1 < $google_list`)
     echo "GOOLE_NAMESPACE COUNT: ${#GOOLE_NAMESPACE[@]}"
     for repo in ${GOOLE_NAMESPACE[@]};do
         echo "image_pull gcr.io/$repo google"
         image_pull gcr.io/$repo google
         sed -i '/'"$repo"'/d' $google_list;echo "$repo" >> $google_list
+    done
+
+    # quay.io
+    QUAY_NAMESPACE=(`xargs -n1 < $quay_list`)
+    echo "QUAY_NAMESPACE COUNT: ${#QUAY_NAMESPACE[@]}"
+    for repo in ${QUAY_NAMESPACE[@]};do
+        echo "image_pull gcr.io/$repo google"
+        image_pull quay.io/$repo quay
+        sed -i '/'"$repo"'/d' $quay_list;echo "$repo" >> $quay_list
     done
 
     exec 5>&-;exec 5<&-
@@ -273,6 +285,9 @@ main(){
         git push -u origin develop
     fi
 }
+
+./image/image_fetch.sh
+./image/image_process.sh
 
 main
 
