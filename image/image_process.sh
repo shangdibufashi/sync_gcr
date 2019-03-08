@@ -20,8 +20,8 @@ image_pull(){
 image_prepare(){
 	repo=`echo "$1" | awk -F':' '{print \$1}'`
 	tag=`echo "$1" | awk -F':' '{print \$2}'`
-	target=$(echo "$repo" | sed 's/\//./g' )
-	target="$MY_REPO/$target"
+	img_name=$(echo "$repo" | sed 's/\//./g' )
+	target="$MY_REPO/$img_name"
 	if [ "$( hub_tag_exist $img_name $tag )" == null ]; then
 		echo "$repo:$tag => $target:$tag"
 		image_pull "$repo:$tag" "$target:$tag"
