@@ -13,9 +13,9 @@ hub_tag_exist(){
 image_pull(){
 	docker pull "$1" > pull.log
 	docker tag "$1" "$2"
-	docker push "$2"
-	docker rmi "$1"
-	docker rmi "$2"
+	docker push "$2" > pull.log
+	docker rmi "$1" > pull.log
+	docker rmi "$2" > pull.log
 }
 
 image_prepare(){
