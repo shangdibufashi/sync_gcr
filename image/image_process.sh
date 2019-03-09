@@ -32,7 +32,7 @@ image_prepare(){
 	else
 		echo "$DATE $2 ignored [$exists] $1"
 	fi
-	echo "cache/${MY_REPO}.$img_name.$tag" > "$DATE cache/${MY_REPO}.$img_name.$tag"
+	echo "$DATE cache/${MY_REPO}.$img_name.$tag" > "cache/${MY_REPO}.$img_name.$tag"
 }
 
 main(){
