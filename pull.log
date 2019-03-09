@@ -5575,3 +5575,2174 @@ Digest: sha256:2b2fecfb2c5c485e4dc4cbd09110c224b269a7dbd3affc12e675312bb8de5947
 Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.9.8-beta.0
 Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.9.7-beta.0
 Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.9.9
+v1.10.9: Pulling from google_containers/cloud-controller-manager-arm
+18f51def72ff: Pulling fs layer
+6a8174dbba66: Pulling fs layer
+v1.10.9-beta.0: Pulling from google_containers/cloud-controller-manager-arm
+08e55b3810b4: Pulling fs layer
+e253ab00fdf1: Pulling fs layer
+e253ab00fdf1: Waiting
+v1.11.0-alpha.1: Pulling from google_containers/cloud-controller-manager-arm
+3f46e1095de2: Pulling fs layer
+0b603d64721a: Pulling fs layer
+3f46e1095de2: Waiting
+0b603d64721a: Waiting
+08e55b3810b4: Verifying Checksum
+08e55b3810b4: Download complete
+18f51def72ff: Verifying Checksum
+18f51def72ff: Download complete
+3f46e1095de2: Verifying Checksum
+3f46e1095de2: Download complete
+18f51def72ff: Pull complete
+08e55b3810b4: Pull complete
+3f46e1095de2: Pull complete
+v1.11.0-rc.3: Pulling from google_containers/cloud-controller-manager-arm
+0f886acdc3f6: Pulling fs layer
+efcec8e416cd: Pulling fs layer
+0f886acdc3f6: Waiting
+efcec8e416cd: Waiting
+6a8174dbba66: Verifying Checksum
+6a8174dbba66: Download complete
+e253ab00fdf1: Verifying Checksum
+e253ab00fdf1: Download complete
+v1.11.7: Pulling from google_containers/cloud-controller-manager-arm
+c79064c22828: Pulling fs layer
+938a01f10125: Pulling fs layer
+c79064c22828: Waiting
+938a01f10125: Waiting
+v1.12.2: Pulling from google_containers/cloud-controller-manager-arm
+18f51def72ff: Already exists
+48ac7d959f4d: Pulling fs layer
+48ac7d959f4d: Waiting
+0f886acdc3f6: Verifying Checksum
+0f886acdc3f6: Download complete
+0f886acdc3f6: Pull complete
+v1.13.0-beta.0: Pulling from google_containers/cloud-controller-manager-arm
+13598bcfdf7a: Pulling fs layer
+95904942a511: Pulling fs layer
+13598bcfdf7a: Waiting
+95904942a511: Waiting
+0b603d64721a: Verifying Checksum
+0b603d64721a: Download complete
+c79064c22828: Verifying Checksum
+c79064c22828: Download complete
+v1.13.0-beta.1: Pulling from google_containers/cloud-controller-manager-arm
+13598bcfdf7a: Pulling fs layer
+6c8ae831df6c: Pulling fs layer
+13598bcfdf7a: Waiting
+6c8ae831df6c: Waiting
+efcec8e416cd: Verifying Checksum
+efcec8e416cd: Download complete
+v1.8.0-alpha.3: Pulling from google_containers/cloud-controller-manager-arm
+15f777a55c7e: Pulling fs layer
+3d9121fb1542: Pulling fs layer
+15f777a55c7e: Waiting
+3d9121fb1542: Waiting
+v1.9.0-beta.1: Pulling from google_containers/cloud-controller-manager-arm
+bf3164833035: Pulling fs layer
+a5e6bf524740: Pulling fs layer
+bf3164833035: Waiting
+a5e6bf524740: Waiting
+c79064c22828: Pull complete
+e253ab00fdf1: Pull complete
+Digest: sha256:4d2944a87319a3f52596df3f5f1d4ff2fa1a65037cd088af6cd6beb38e01a737
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm:v1.10.9-beta.0
+6a8174dbba66: Pull complete
+Digest: sha256:3113aa866baa05fce504c1dbe980104bb921f4eb043a35774c5671da9b2173a9
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm:v1.10.9
+938a01f10125: Verifying Checksum
+938a01f10125: Download complete
+0b603d64721a: Pull complete
+Digest: sha256:82573bbdacfe37be254dec8df5e93cd8dabb9eb84777e00a2b2738a625b12049
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm:v1.11.0-alpha.1
+13598bcfdf7a: Verifying Checksum
+13598bcfdf7a: Verifying Checksum
+13598bcfdf7a: Download complete
+13598bcfdf7a: Download complete
+48ac7d959f4d: Verifying Checksum
+48ac7d959f4d: Download complete
+v1.9.4: Pulling from google_containers/cloud-controller-manager-arm
+f6c10ed8a46a: Pulling fs layer
+479ec634a3b1: Pulling fs layer
+f6c10ed8a46a: Waiting
+479ec634a3b1: Waiting
+v1.9.4-beta.0: Pulling from google_containers/cloud-controller-manager-arm
+bc909dd7fd4c: Pulling fs layer
+fc7ffe608d8f: Pulling fs layer
+bc909dd7fd4c: Waiting
+fc7ffe608d8f: Waiting
+15f777a55c7e: Verifying Checksum
+15f777a55c7e: Download complete
+efcec8e416cd: Pull complete
+Digest: sha256:795998336596fc384e7ff8ed65e611459050da845f1fe631b0416b169ae587cb
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm:v1.11.0-rc.3
+95904942a511: Verifying Checksum
+95904942a511: Download complete
+15f777a55c7e: Pull complete
+6c8ae831df6c: Verifying Checksum
+6c8ae831df6c: Download complete
+bf3164833035: Verifying Checksum
+bf3164833035: Download complete
+bf3164833035: Pull complete
+f6c10ed8a46a: Verifying Checksum
+f6c10ed8a46a: Download complete
+3d9121fb1542: Verifying Checksum
+3d9121fb1542: Download complete
+f6c10ed8a46a: Pull complete
+a5e6bf524740: Verifying Checksum
+a5e6bf524740: Download complete
+bc909dd7fd4c: Verifying Checksum
+bc909dd7fd4c: Download complete
+13598bcfdf7a: Pull complete
+13598bcfdf7a: Pull complete
+bc909dd7fd4c: Pull complete
+479ec634a3b1: Verifying Checksum
+479ec634a3b1: Download complete
+95904942a511: Pull complete
+Digest: sha256:7d5d9def1be2ab2a7454475a1fd1bc5f0d23a03bad0afd4951a6e3e449df4e25
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm:v1.13.0-beta.0
+fc7ffe608d8f: Verifying Checksum
+fc7ffe608d8f: Download complete
+938a01f10125: Pull complete
+Digest: sha256:a32fbe803748a0c6b93bbcd4ca104079be0ee72505d89fcd73b599082d05e480
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm:v1.11.7
+48ac7d959f4d: Pull complete
+Digest: sha256:e2ecab0ec9174d88709f5015cf9be2faca67d20f0931ee173f8c736115a44cb1
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm:v1.12.2
+a5e6bf524740: Pull complete
+Digest: sha256:00d317475059667938584cd165b92ade4c7132031ed655cd6553d2ed180054ce
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm:v1.9.0-beta.1
+3d9121fb1542: Pull complete
+Digest: sha256:b1acd16b9fa56a0ea73bdc4c02f83ced69bee813c2d8ce8332bc94fb71bf0c66
+6c8ae831df6c: Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm:v1.8.0-alpha.3
+Pull complete
+Digest: sha256:c2d70eef69d130691a7c9d0f863aba4100cc42e2fbcc030843a199a9432cc57e
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm:v1.13.0-beta.1
+479ec634a3b1: Pull complete
+Digest: sha256:7cd9a8c36a7fd3d012216eacb3bcf60b082e446ef50089c5030b8d836ae294e4
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm:v1.9.4
+fc7ffe608d8f: Pull complete
+Digest: sha256:22feb649a51fab8bf091e52942b16c48b4f369f3d14896d89075dce469d1c870
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm:v1.9.4-beta.0
+v1.10.0: Pulling from google_containers/cloud-controller-manager-arm64
+8996f62fa48d: Pulling fs layer
+be0877b616b5: Pulling fs layer
+v1.10.0-alpha.0: Pulling from google_containers/cloud-controller-manager-arm64
+9c12cdffb223: Pulling fs layer
+c5f89b296e53: Pulling fs layer
+c5f89b296e53: Waiting
+8996f62fa48d: Verifying Checksum
+8996f62fa48d: Download complete
+v1.10.0-alpha.2: Pulling from google_containers/cloud-controller-manager-arm64
+509eddf12162: Pulling fs layer
+0fdf51a10aaf: Pulling fs layer
+509eddf12162: Waiting
+0fdf51a10aaf: Waiting
+8996f62fa48d: Pull complete
+9c12cdffb223: Verifying Checksum
+9c12cdffb223: Download complete
+509eddf12162: Verifying Checksum
+509eddf12162: Download complete
+9c12cdffb223: Pull complete
+v1.10.0-alpha.3: Pulling from google_containers/cloud-controller-manager-arm64
+509eddf12162: Pulling fs layer
+4e5fca660991: Pulling fs layer
+4e5fca660991: Waiting
+509eddf12162: Pull complete
+509eddf12162: Pull complete
+be0877b616b5: Verifying Checksum
+be0877b616b5: Download complete
+c5f89b296e53: Verifying Checksum
+c5f89b296e53: Download complete
+v1.10.0-beta.0: Pulling from google_containers/cloud-controller-manager-arm64
+509eddf12162: Already exists
+6bd50d158e5a: Pulling fs layer
+v1.10.0-beta.1: Pulling from google_containers/cloud-controller-manager-arm64
+509eddf12162: Already exists
+1aa4e3e483ba: Pulling fs layer
+1aa4e3e483ba: Waiting
+c5f89b296e53: Pull complete
+Digest: sha256:73163892b0db492bddf66d53c244ae466c9655c0149e43bf876270b96c2381be
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.10.0-alpha.0
+0fdf51a10aaf: Verifying Checksum
+0fdf51a10aaf: Download complete
+v1.10.0-beta.2: Pulling from google_containers/cloud-controller-manager-arm64
+8996f62fa48d: Already exists
+85d0e01d3fac: Pulling fs layer
+85d0e01d3fac: Waiting
+v1.10.0-beta.3: Pulling from google_containers/cloud-controller-manager-arm64
+8996f62fa48d: Already exists
+b2968cf0a9c8: Pulling fs layer
+b2968cf0a9c8: Waiting
+v1.10.0-beta.4: Pulling from google_containers/cloud-controller-manager-arm64
+8996f62fa48d: Already exists
+5e0796ff5912: Pulling fs layer
+5e0796ff5912: Waiting
+6bd50d158e5a: Verifying Checksum
+6bd50d158e5a: Download complete
+4e5fca660991: Verifying Checksum
+4e5fca660991: Download complete
+v1.10.0-rc.1: Pulling from google_containers/cloud-controller-manager-arm64
+8996f62fa48d: Already exists
+44235bae8ee6: Pulling fs layer
+44235bae8ee6: Waiting
+be0877b616b5: Pull complete
+Digest: sha256:5126b793f66a408e12b83dbdb0fba112cee6374fa99154237cf5b8e39d743194
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.10.0
+v1.10.1: Pulling from google_containers/cloud-controller-manager-arm64
+45354500ca49: Pulling fs layer
+7ff87c37075e: Pulling fs layer
+45354500ca49: Waiting
+7ff87c37075e: Waiting
+1aa4e3e483ba: Verifying Checksum
+1aa4e3e483ba: Download complete
+4e5fca660991: Pull complete
+Digest: sha256:4c014962888ea38ded568ce7241388cc12f64bc33c39e01c3c56180d45fbc180
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.10.0-alpha.3
+85d0e01d3fac: Verifying Checksum
+85d0e01d3fac: Download complete
+b2968cf0a9c8: Verifying Checksum
+b2968cf0a9c8: Download complete
+v1.10.1-beta.0: Pulling from google_containers/cloud-controller-manager-arm64
+8996f62fa48d: Already exists
+45354500ca49: Verifying Checksum
+45354500ca49: Download complete
+5e0796ff5912: Verifying Checksum
+5e0796ff5912: Download complete
+a04200731156: Pulling fs layer
+44235bae8ee6: Verifying Checksum
+44235bae8ee6: Download complete
+45354500ca49: Pull complete
+0fdf51a10aaf: Pull complete
+6bd50d158e5a: Pull complete
+85d0e01d3fac: Pull complete
+Digest: sha256:e16e8f846cf45dc66bdc3c51ca47c46cb528ffba0d185b0403208c793bd8fe48
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.10.0-alpha.2
+Digest: sha256:1ae22e3426b0e62cb31cf3bae9579e604ba0d1cfb5af301b7b32220a6ab7a10b
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.10.0-beta.0
+Digest: sha256:33dd32c04a026a7675ed7d10c3e564d353509c2fbfc91f8d5e4f481276ebebe2
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.10.0-beta.2
+b2968cf0a9c8: Pull complete
+Digest: sha256:0c0773c2c0f2809a802e48ea785be0194cbd717fb6cafa3f06ec770939b6bc2b
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.10.0-beta.3
+7ff87c37075e: Verifying Checksum
+7ff87c37075e: Download complete
+1aa4e3e483ba: Pull complete
+Digest: sha256:8ddbee268e8b4b99a902f35b93ddb71e01b692bb865fdb3935cc80ccb539d9b7
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.10.0-beta.1
+v1.10.10: Pulling from google_containers/cloud-controller-manager-arm64
+acafde7ce2e7: Pulling fs layer
+26d89464868a: Pulling fs layer
+a04200731156: Verifying Checksum
+a04200731156: Download complete
+v1.10.10-beta.0: Pulling from google_containers/cloud-controller-manager-arm64
+acafde7ce2e7: Pulling fs layer
+3408ef9ee44e: Pulling fs layer
+acafde7ce2e7: Verifying Checksum
+acafde7ce2e7: Verifying Checksum
+acafde7ce2e7: Download complete
+acafde7ce2e7: Download complete
+v1.10.11: Pulling from google_containers/cloud-controller-manager-arm64
+acafde7ce2e7: Pulling fs layer
+dc15a68eaf7c: Pulling fs layer
+acafde7ce2e7: Pull complete
+acafde7ce2e7: Pull complete
+acafde7ce2e7: Pull complete
+44235bae8ee6: Pull complete
+Digest: sha256:dc217a0800e4c7a9c6dee42f73bb581fe32826c492ed4937788ed510d678b0e8
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.10.0-rc.1
+5e0796ff5912: Pull complete
+Digest: sha256:65acd355f63a9aeed5ce2383e6311345748024a7afc94776b11b110d72975c3e
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.10.0-beta.4
+26d89464868a: Verifying Checksum
+26d89464868a: Download complete
+v1.10.11-beta.0: Pulling from google_containers/cloud-controller-manager-arm64
+acafde7ce2e7: Already exists
+86465daf5ea9: Pulling fs layer
+v1.10.12: Pulling from google_containers/cloud-controller-manager-arm64
+acafde7ce2e7: Already exists
+1bbb3d34de23: Pulling fs layer
+1bbb3d34de23: Waiting
+v1.10.12-beta.0: Pulling from google_containers/cloud-controller-manager-arm64
+acafde7ce2e7: Already exists
+v1.10.13: Pulling from google_containers/cloud-controller-manager-arm64
+33a0060ddd61: Pulling fs layer
+4f51907ee2cc: Pulling fs layer
+33a0060ddd61: Waiting
+4f51907ee2cc: Waiting
+2ff7a45e0cc3: Pulling fs layer
+2ff7a45e0cc3: Waiting
+7ff87c37075e: Pull complete
+Digest: sha256:5578313251619792658e8822f948170ab12a90cb8643269e53f0a57affef2f53
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.10.1
+3408ef9ee44e: Verifying Checksum
+3408ef9ee44e: Download complete
+dc15a68eaf7c: Verifying Checksum
+dc15a68eaf7c: Download complete
+86465daf5ea9: Verifying Checksum
+86465daf5ea9: Download complete
+v1.10.13-beta.0: Pulling from google_containers/cloud-controller-manager-arm64
+acafde7ce2e7: Already exists
+930cef171b08: Pulling fs layer
+930cef171b08: Waiting
+33a0060ddd61: Verifying Checksum
+33a0060ddd61: Download complete
+v1.10.14-beta.0: Pulling from google_containers/cloud-controller-manager-arm64
+33a0060ddd61: Pulling fs layer
+f0a808c46854: Pulling fs layer
+f0a808c46854: Waiting
+1bbb3d34de23: Verifying Checksum
+1bbb3d34de23: Download complete
+33a0060ddd61: Pull complete
+33a0060ddd61: Pull complete
+a04200731156: Pull complete
+Digest: sha256:1cfd4f6c7d0c3238a9edc951e52630e1c50d31e50d713d04a23cf7832f437dd3
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.10.1-beta.0
+3408ef9ee44e: Pull complete
+Digest: sha256:e60b07d98b4f3e459473a8d33db22de0536064fd281511a752d1b83f576829e7
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.10.10-beta.0
+dc15a68eaf7c: Pull complete
+Digest: sha256:e821e1a4929c13833cc0ba1e0c95a2cbd1b5ec81affbd9bfb9681ee3ddec4bb7
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.10.11
+2ff7a45e0cc3: Verifying Checksum
+2ff7a45e0cc3: Download complete
+4f51907ee2cc: Verifying Checksum
+4f51907ee2cc: Download complete
+v1.10.2: Pulling from google_containers/cloud-controller-manager-arm64
+45354500ca49: Already exists
+bb30e37dcaf4: Pulling fs layer
+930cef171b08: Verifying Checksum
+930cef171b08: Download complete
+v1.10.2-beta.0: Pulling from google_containers/cloud-controller-manager-arm64
+45354500ca49: Already exists
+3a64f7e3346e: Pulling fs layer
+26d89464868a: Pull complete
+Digest: sha256:56fa277fa23bce5c8514e04fe29044f029c58149bdede46c419a96b49786a537
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.10.10
+86465daf5ea9: Pull complete
+Digest: sha256:39682cd4bbd225c479be8b3d3bffd7edbba6359b411cd803bca2f66704fa35be
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.10.11-beta.0
+1bbb3d34de23: Pull complete
+Digest: sha256:aa5e648e9217e5913c19fc05706a1967a4416b8166c81a3001eeae130a7f773c
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.10.12
+f0a808c46854: Verifying Checksum
+f0a808c46854: Download complete
+v1.10.3: Pulling from google_containers/cloud-controller-manager-arm64
+45354500ca49: Already exists
+e2bc25823c68: Pulling fs layer
+v1.10.3-beta.0: Pulling from google_containers/cloud-controller-manager-arm64
+45354500ca49: Already exists
+23aa7f8bf52b: Pulling fs layer
+23aa7f8bf52b: Waiting
+bb30e37dcaf4: Verifying Checksum
+bb30e37dcaf4: Download complete
+3a64f7e3346e: Verifying Checksum
+3a64f7e3346e: Download complete
+e2bc25823c68: Verifying Checksum
+e2bc25823c68: Download complete
+v1.10.4: Pulling from google_containers/cloud-controller-manager-arm64
+778a4afaeeb0: Pulling fs layer
+990057649b30: Pulling fs layer
+v1.10.4-beta.0: Pulling from google_containers/cloud-controller-manager-arm64
+45354500ca49: Already exists
+778a4afaeeb0: Verifying Checksum
+778a4afaeeb0: Download complete
+23aa7f8bf52b: Verifying Checksum
+23aa7f8bf52b: Download complete
+990057649b30: Verifying Checksum
+990057649b30: Download complete
+8be2488cb9db: Pulling fs layer
+8be2488cb9db: Verifying Checksum
+8be2488cb9db: Download complete
+930cef171b08: Pull complete
+778a4afaeeb0: Pull complete
+2ff7a45e0cc3: Pull complete
+4f51907ee2cc: Pull complete
+f0a808c46854: Pull complete
+23aa7f8bf52b: Pull complete
+e2bc25823c68: Pull complete
+3a64f7e3346e: Pull complete
+bb30e37dcaf4: Pull complete
+8be2488cb9db: Pull complete
+Digest: sha256:234fb3df0072fb7dd3bfa15af6c4d142b70778e7c1bc2606ab06894cdc7d1268
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.10.14-beta.0
+Digest: sha256:36e9cbf717ea6bb018dcc0fe107572e45a186f06d33b58a2b354db69edae30c8
+Digest: sha256:12b34912e3e3a8081a77e28327971c95553ec1cfd4346fa55f16955ca1fefc95
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.10.13
+Digest: sha256:fb873e73725b4491f5d5c39f530adc81c46a025146787a6a85c89c015f3718ec
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.10.13-beta.0
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.10.2-beta.0
+Digest: sha256:7b1be03e35773f75ad082299f90a182ff86d4ba2c0975995d702e47b19c1a6c7
+Digest: sha256:146ef4c234c8226249f3b16e340bc0c7d58e32e5080b6385aa8eb25520ee8b62
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.10.12-beta.0
+Digest: sha256:6588d292548ea3d72fdef87fa17c1c0f2fbc649b63d349dfe2dd38e76c0211b7
+Digest: sha256:a917c1440add05d0b2dfa086caae3fdcede7afaca99680c30587c185acaa276d
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.10.3-beta.0
+Digest: sha256:a67dd5c61523413783c3abf4ef7f05795361b14cb6df3e822fbd416f41f3eb41
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.10.3
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.10.4-beta.0
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.10.2
+990057649b30: Pull complete
+Digest: sha256:311e04bd20c4dd449914d9408d22977c8c2c81dc67b45a79ad8fa6e84ad4f502
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.10.4
+v1.10.5: Pulling from google_containers/cloud-controller-manager-arm64
+778a4afaeeb0: Already exists
+d4b319bac196: Pulling fs layer
+v1.10.5-beta.0: Pulling from google_containers/cloud-controller-manager-arm64
+778a4afaeeb0: Already exists
+27a19907fbab: Pulling fs layer
+v1.10.6: Pulling from google_containers/cloud-controller-manager-arm64
+cd6101adb6f7: Pulling fs layer
+c846ee421f64: Pulling fs layer
+c846ee421f64: Waiting
+cd6101adb6f7: Verifying Checksum
+cd6101adb6f7: Download complete
+v1.10.6-beta.0: Pulling from google_containers/cloud-controller-manager-arm64
+778a4afaeeb0: Already exists
+ea61faf15581: Pulling fs layer
+ea61faf15581: Waiting
+cd6101adb6f7: Pull complete
+v1.10.7: Pulling from google_containers/cloud-controller-manager-arm64
+4822d9275fd4: Pulling fs layer
+898a15d8c94c: Pulling fs layer
+4822d9275fd4: Waiting
+898a15d8c94c: Waiting
+d4b319bac196: Verifying Checksum
+d4b319bac196: Download complete
+v1.10.7-beta.0: Pulling from google_containers/cloud-controller-manager-arm64
+cd6101adb6f7: Already exists
+76f6c5c8fcb4: Pulling fs layer
+76f6c5c8fcb4: Waiting
+v1.10.8: Pulling from google_containers/cloud-controller-manager-arm64
+4822d9275fd4: Pulling fs layer
+3d282cdb3d22: Pulling fs layer
+4822d9275fd4: Waiting
+3d282cdb3d22: Waiting
+c846ee421f64: Verifying Checksum
+c846ee421f64: Download complete
+ea61faf15581: Verifying Checksum
+ea61faf15581: Download complete
+4822d9275fd4: 4822d9275fd4: Verifying Checksum
+Verifying Checksum
+4822d9275fd4: Download complete
+4822d9275fd4: Download complete
+v1.10.8-beta.0: Pulling from google_containers/cloud-controller-manager-arm64
+4822d9275fd4: Pulling fs layer
+8b1fa2908a85: Pulling fs layer
+8b1fa2908a85: Waiting
+4822d9275fd4: Pull complete
+4822d9275fd4: Pull complete
+4822d9275fd4: Pull complete
+27a19907fbab: Verifying Checksum
+27a19907fbab: Download complete
+v1.10.9: Pulling from google_containers/cloud-controller-manager-arm64
+acafde7ce2e7: Already exists
+d9ac041c5900: Pulling fs layer
+d9ac041c5900: Waiting
+d4b319bac196: Pull complete
+Digest: sha256:103e4ea908eef7534d5203406499e9859327ca9f24e2d5b1dc8d9c6b4c282a5d
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.10.5
+v1.10.9-beta.0: Pulling from google_containers/cloud-controller-manager-arm64
+4822d9275fd4: Already exists
+a460e2916def: Pulling fs layer
+a460e2916def: Waiting
+76f6c5c8fcb4: Verifying Checksum
+76f6c5c8fcb4: Download complete
+898a15d8c94c: Verifying Checksum
+898a15d8c94c: Download complete
+3d282cdb3d22: Verifying Checksum
+3d282cdb3d22: Download complete
+v1.11.0: Pulling from google_containers/cloud-controller-manager-arm64
+778a4afaeeb0: Already exists
+8b1fa2908a85: Verifying Checksum
+8b1fa2908a85: Download complete
+d9ac041c5900: Verifying Checksum
+d9ac041c5900: Download complete
+a460e2916def: Verifying Checksum
+a460e2916def: Download complete
+698f21df4c43: Pulling fs layer
+698f21df4c43: Verifying Checksum
+698f21df4c43: Download complete
+c846ee421f64: Pull complete
+ea61faf15581: Pull complete
+898a15d8c94c: Pull complete
+27a19907fbab: Pull complete
+76f6c5c8fcb4: Pull complete
+3d282cdb3d22: Pull complete
+8b1fa2908a85: Pull complete
+a460e2916def: Pull complete
+d9ac041c5900: Pull complete
+698f21df4c43: Pull complete
+Digest: sha256:597cb045e0a99902f4eedbcf651b6a56ffd10b8f92ba0324be0cb5ce786cbe76
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.10.6
+Digest: sha256:a7a8bfef017aed8738715fa57408407906367b20338b2b722965c8c6826bcf98
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.10.8-beta.0
+Digest: sha256:a93b60c2d70babfb50996199f1fae7de57ee2e64f0b58df6185aed51c020a3f3
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.10.9
+Digest: sha256:872f663f7c651f14b157627bfd56e5622935d116452ee2b4bb67929e4a9b74ce
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.10.6-beta.0
+Digest: sha256:8cbc5eacc85134379acd5fe47af9bcc1b49e3c13ed69f865e86a5e8908e569ca
+Digest: sha256:63347e46d7e3095ce0f4b392d3e15c0e18c97376d5aeb732bb3f009149b74147
+Digest: sha256:62a49ff6ae071747916c6ecf02a0b458d4baebf6c0c847f6e562edbe748c6574
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.10.9-beta.0
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.10.7
+Digest: sha256:1b9a45087f789b1da7f2143703c7bc16bde21157e89fad8fca25e97a43ae370d
+Digest: sha256:b87094ed340a6b5e659ed6d31f6e79f2ffeae8a7fabd1ad4babf6e567629b18b
+Digest: sha256:d0c23811ad017f470f7ba2a2f96a9da70be19c996970fe1dc0796f7819ae0aa8
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.10.5-beta.0
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.10.8
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.11.0
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.10.7-beta.0
+v1.11.0-alpha.0: Pulling from google_containers/cloud-controller-manager-arm64
+509eddf12162: Already exists
+beeedab94e40: Pulling fs layer
+v1.11.0-alpha.1: Pulling from google_containers/cloud-controller-manager-arm64
+45354500ca49: Already exists
+8e8f52d8da6a: Pulling fs layer
+v1.11.0-alpha.2: Pulling from google_containers/cloud-controller-manager-arm64
+45354500ca49: Already exists
+18f3bda3ba07: Pulling fs layer
+beeedab94e40: Verifying Checksum
+beeedab94e40: Download complete
+v1.11.0-beta.0: Pulling from google_containers/cloud-controller-manager-arm64
+45354500ca49: Already exists
+v1.11.0-beta.1: Pulling from google_containers/cloud-controller-manager-arm64
+18f3bda3ba07: Verifying Checksum
+18f3bda3ba07: Download complete
+8e8f52d8da6a: Verifying Checksum
+8e8f52d8da6a: Download complete
+v1.11.0-beta.2: Pulling from google_containers/cloud-controller-manager-arm64
+v1.11.0-rc.1: Pulling from google_containers/cloud-controller-manager-arm64
+v1.11.0-rc.2: Pulling from google_containers/cloud-controller-manager-arm64
+778a4afaeeb0: Already exists
+778a4afaeeb0: Already exists
+v1.11.0-rc.3: Pulling from google_containers/cloud-controller-manager-arm64
+v1.11.1: Pulling from google_containers/cloud-controller-manager-arm64
+778a4afaeeb0: Already exists
+778a4afaeeb0: Already exists
+40cb66d9a236: Pulling fs layer
+778a4afaeeb0: Already exists
+40cb66d9a236: Download complete
+cd6101adb6f7: Already exists
+9e7cc7754a10: Pulling fs layer
+beeedab94e40: Pull complete
+8e8f52d8da6a: Pull complete
+18f3bda3ba07: Pull complete
+40cb66d9a236: Pull complete
+62fdba9089d7: Pulling fs layer
+25aca596b58b: Pulling fs layer
+aebfc87246e1: Pulling fs layer
+aebfc87246e1: Waiting
+afe5286de578: Pulling fs layer
+afe5286de578: Waiting
+5e8e2ed04a6b: Pulling fs layer
+5e8e2ed04a6b: Waiting
+Digest: sha256:2cce638701d80195127994a5b253274f8746f67910e3b506198ed5f34b3a09ad
+Digest: sha256:ced5353eb00ab89d1d445f8d615def8bf9f3b5da91850065f01ca35f389ad5f1
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.11.0-alpha.0
+Digest: sha256:d6524723a98516876ec87ac0f382a8e39a3eeed30ef07805f791809aacc2f84f
+Digest: sha256:346f980e9dd592a62dc39ed230868d01fa8f321bcbfbe61b6001a64fecb02934
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.11.0-alpha.1
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.11.0-alpha.2
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.11.0-beta.0
+9e7cc7754a10: Verifying Checksum
+9e7cc7754a10: Download complete
+25aca596b58b: Verifying Checksum
+25aca596b58b: Download complete
+62fdba9089d7: Verifying Checksum
+62fdba9089d7: Download complete
+v1.11.1-beta.0: Pulling from google_containers/cloud-controller-manager-arm64
+778a4afaeeb0: Already exists
+0f6ac743f71c: Pulling fs layer
+0f6ac743f71c: Waiting
+v1.11.2: Pulling from google_containers/cloud-controller-manager-arm64
+4822d9275fd4: Already exists
+0426356996aa: Pulling fs layer
+0426356996aa: Waiting
+aebfc87246e1: Verifying Checksum
+aebfc87246e1: Download complete
+afe5286de578: Verifying Checksum
+afe5286de578: Download complete
+v1.11.2-beta.0: Pulling from google_containers/cloud-controller-manager-arm64
+cd6101adb6f7: Already exists
+v1.11.3: Pulling from google_containers/cloud-controller-manager-arm64
+4822d9275fd4: Already exists
+5e8e2ed04a6b: Verifying Checksum
+5e8e2ed04a6b: Download complete
+0f6ac743f71c: Verifying Checksum
+0f6ac743f71c: Download complete
+0426356996aa: Verifying Checksum
+0426356996aa: Download complete
+09848bfadf0c: Pulling fs layer
+09848bfadf0c: Verifying Checksum
+09848bfadf0c: Download complete
+642126b50e57: Pulling fs layer
+642126b50e57: Verifying Checksum
+642126b50e57: Download complete
+9e7cc7754a10: Pull complete
+aebfc87246e1: Pull complete
+25aca596b58b: Pull complete
+62fdba9089d7: Pull complete
+5e8e2ed04a6b: Pull complete
+afe5286de578: Pull complete
+0426356996aa: Pull complete
+0f6ac743f71c: Pull complete
+09848bfadf0c: Pull complete
+Digest: sha256:7e670a889816135542912ab18dcce7edc0a593dae41e377bb4da708df73cd421
+642126b50e57: Pull complete
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.11.0-beta.2
+Digest: sha256:b0a88d288711656af3cb2ff896f3e7197a80484d0a25b12168c8112b80348902
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.11.0-rc.1
+Digest: sha256:64c55adeab0da68a4f0c3228d4780d82d71ad210863e052e24f7a4294bb9abd0
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.11.1-beta.0
+Digest: sha256:0d92b99b4459e7fbee820134a83a671373ee271cb539a7713b082f709e5c36d4
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.11.0-rc.2
+Digest: sha256:1646d1f392760d1f0769bcfedeaf5deec8d6cf099b452dd653235b350a2885c4
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.11.0-beta.1
+Digest: sha256:690774e6bab14bd53da5e32ffa86c012b8878b88e2ef6079d757d213e37c6119
+Digest: sha256:9339b4c7156dcb8e57c542301ca42b94dbb98678a2db9096fab2130d4daec3eb
+Digest: sha256:d999e326aa79b7b29017f153f20078568bc8830e01d5657530a2c3a2c750d86b
+Digest: sha256:9e36b88450156b3ea70a2061030132548bea72328deaedf5a096131ab07f45c9
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.11.1
+Digest: sha256:ed7a99dde1f02d03c6956c0c5eb46831194f49eb169792d4ca4f34b1f893ad95
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.11.2
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.11.0-rc.3
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.11.2-beta.0
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.11.3
+v1.11.3-beta.0: Pulling from google_containers/cloud-controller-manager-arm64
+4822d9275fd4: Already exists
+3da42ed9ed31: Pulling fs layer
+v1.11.4: Pulling from google_containers/cloud-controller-manager-arm64
+acafde7ce2e7: Already exists
+1f33971ad31e: Pulling fs layer
+v1.11.4-beta.0: Pulling from google_containers/cloud-controller-manager-arm64
+4822d9275fd4: Already exists
+4181e0e4be14: Pulling fs layer
+v1.11.5: Pulling from google_containers/cloud-controller-manager-arm64
+acafde7ce2e7: Already exists
+889a6bb1de41: Pulling fs layer
+889a6bb1de41: Waiting
+3da42ed9ed31: Verifying Checksum
+3da42ed9ed31: Download complete
+v1.11.5-beta.0: Pulling from google_containers/cloud-controller-manager-arm64
+acafde7ce2e7: Already exists
+v1.11.6: Pulling from google_containers/cloud-controller-manager-arm64
+v1.11.6-beta.0: Pulling from google_containers/cloud-controller-manager-arm64
+4181e0e4be14: Verifying Checksum
+4181e0e4be14: Download complete
+v1.11.7: Pulling from google_containers/cloud-controller-manager-arm64
+1f33971ad31e: Verifying Checksum
+1f33971ad31e: Download complete
+889a6bb1de41: Verifying Checksum
+889a6bb1de41: Download complete
+v1.11.7-beta.0: Pulling from google_containers/cloud-controller-manager-arm64
+v1.11.8: Pulling from google_containers/cloud-controller-manager-arm64
+acafde7ce2e7: Already exists
+596fa44d463e: Pulling fs layer
+cd9f17ac01a3: Pulling fs layer
+acafde7ce2e7: Already exists
+596fa44d463e: Verifying Checksum
+596fa44d463e: Download complete
+33a0060ddd61: Already exists
+acafde7ce2e7: Already exists
+6e5995eb164c: Pulling fs layer
+cd9f17ac01a3: Verifying Checksum
+cd9f17ac01a3: Download complete
+6e5995eb164c: Verifying Checksum
+6e5995eb164c: Download complete
+596fa44d463e: Pull complete
+1454295049c1: Pulling fs layer
+3da42ed9ed31: Pull complete
+4181e0e4be14: Pull complete
+889a6bb1de41: Pull complete
+1f33971ad31e: Pull complete
+1ccf83dee8e0: Pulling fs layer
+6e5995eb164c: Pull complete
+b508fea6fc76: Pulling fs layer
+cab1915b195a: Pulling fs layer
+cab1915b195a: Waiting
+Digest: sha256:489e5b34d3eea8d3bcf42b4f39355fc3535ca6586c2c997d1a73bd04b612c35f
+Digest: sha256:4bb375ea7d29e1d5005594b74fcd1013333a2288cc91c169123525850c9c257e
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.11.3-beta.0
+Digest: sha256:78498ea264ec25147702b0bb4aea750365b102426767719f85de7531efef7829
+Digest: sha256:75d7972495a25aedf0ae1476f20c9dcdf3b3bec605cb1f22168f429899a0b0ef
+Digest: sha256:313acf31d735b99ed032ea84ee8498a9fc922026fa33271d7171b6c1ef88fc31
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.11.4-beta.0
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.11.4
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.11.5
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.11.5-beta.0
+1ccf83dee8e0: 1454295049c1: Verifying Checksum
+Verifying Checksum
+1454295049c1: 1ccf83dee8e0: Download complete
+Download complete
+b508fea6fc76: Verifying Checksum
+b508fea6fc76: Download complete
+cab1915b195a: Verifying Checksum
+cab1915b195a: Download complete
+cd9f17ac01a3: Pull complete
+b508fea6fc76: Pull complete
+cab1915b195a: Pull complete
+1454295049c1: Pull complete
+1ccf83dee8e0: Pull complete
+Digest: sha256:a3d505a61eef9ebaf9e5b6484f1b9293b21f8c4f6fcef379a479501caafb9e87
+Digest: sha256:38059b4f04c209c915369ce99445cce7d4ff20b2cca8072544026e32a0fb0b64
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.11.8
+Digest: sha256:2e4bc258dc5809aed74d435c01aea49709ebd615ff6f3895ca0bd42904340fae
+Digest: sha256:6f5658064bd578047641e47185aec45e3f15034ad0e2ad54f2044c960a9f52c8
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.11.6
+Digest: sha256:94177015f4c7eb31d98a36ba9ec5d403594a702ffa9684c70f13d0d898afa9f5
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.11.7
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.11.7-beta.0
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.11.6-beta.0
+v1.11.8-beta.0: Pulling from google_containers/cloud-controller-manager-arm64
+33a0060ddd61: Already exists
+0382f8d99ef1: Pulling fs layer
+v1.11.9-beta.0: Pulling from google_containers/cloud-controller-manager-arm64
+596fa44d463e: Already exists
+b33af50b1f33: Pulling fs layer
+v1.12.0: Pulling from google_containers/cloud-controller-manager-arm64
+4822d9275fd4: Already exists
+0382f8d99ef1: Verifying Checksum
+0382f8d99ef1: Download complete
+95bb57860d4e: Pulling fs layer
+b33af50b1f33: Verifying Checksum
+b33af50b1f33: Download complete
+v1.12.0-alpha.0: Pulling from google_containers/cloud-controller-manager-arm64
+45354500ca49: Already exists
+08816acb6f32: Pulling fs layer
+v1.12.0-alpha.1: Pulling from google_containers/cloud-controller-manager-arm64
+4822d9275fd4: Already exists
+v1.12.0-beta.0: Pulling from google_containers/cloud-controller-manager-arm64
+4822d9275fd4: Already exists
+v1.12.0-beta.1: Pulling from google_containers/cloud-controller-manager-arm64
+v1.12.0-beta.2: Pulling from google_containers/cloud-controller-manager-arm64
+95bb57860d4e: Verifying Checksum
+95bb57860d4e: Download complete
+08816acb6f32: v1.12.0-rc.1: Verifying Checksum
+Pulling from google_containers/cloud-controller-manager-arm64
+08816acb6f32: Download complete
+v1.12.0-rc.2: Pulling from google_containers/cloud-controller-manager-arm64
+4822d9275fd4: Already exists
+33ec80911676: Pulling fs layer
+4822d9275fd4: Already exists
+33ec80911676: Verifying Checksum
+33ec80911676: Download complete
+4822d9275fd4: Already exists
+4822d9275fd4: Already exists
+620ec13cc414: Pulling fs layer
+620ec13cc414: Download complete
+0382f8d99ef1: Pull complete
+b33af50b1f33: Pull complete
+08816acb6f32: Pull complete
+33ec80911676: Pull complete
+95bb57860d4e: Pull complete
+d82024a4cd20: Pulling fs layer
+620ec13cc414: Pull complete
+a57b2e7e15c2: Pulling fs layer
+73d07648d95e: Pulling fs layer
+c0b364c6a005: Pulling fs layer
+c0b364c6a005: Waiting
+Digest: sha256:a9e0882e77c030e4769cd3e8f4703c29e66e4e85d1e32728d070f697df6343d4
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.11.8-beta.0
+Digest: sha256:6d68ab274a2b4d2ab4dfd433e1661a03ac14a755a39841554eac7e0d03d44458
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.12.0-alpha.0
+Digest: sha256:b0dfc906ad01c41cc722d98e238585106bcb9414d6558f4c6750e426fb67bc0f
+Digest: sha256:d4891e9706f26460b8149b58e401acb418879e328b8cae5d132c58d0f7313834
+Digest: sha256:f8a1d1e71237334ebde8be2a5000adf84fe1aeaee0b7cf3cfdbb17a7bbefad9c
+Digest: sha256:e600d9896ac3f8a3e8e735dfd12ce5c23d7bcd573cf06a0705bfb5c03bfc16ba
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.12.0
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.11.9-beta.0
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.12.0-alpha.1
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.12.0-beta.0
+73d07648d95e: Verifying Checksum
+73d07648d95e: Download complete
+d82024a4cd20: Verifying Checksum
+d82024a4cd20: Download complete
+a57b2e7e15c2: Verifying Checksum
+a57b2e7e15c2: Download complete
+c0b364c6a005: Verifying Checksum
+c0b364c6a005: Download complete
+a57b2e7e15c2: Pull complete
+73d07648d95e: d82024a4cd20: Pull complete
+Pull complete
+c0b364c6a005: Pull complete
+Digest: sha256:72b0b85d0d2f0d7a8c6631bc6a8d692b06f84f76562c0be8624825350127d82c
+Digest: sha256:f565a799638312dd34f94c8da60b52175bb5cb150230fda284d2a757f8cd2c69
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.12.0-beta.2
+Digest: sha256:9f48de90a9def0c95dfcbf3a82848d2121539c17e2f5a121db75a713418d1f98
+Digest: sha256:86fddcfc802973e85f4eb813d9b4211e1b984ab09aec0aaa3f0977b5f40f13e7
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.12.0-rc.1
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.12.0-beta.1
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.12.0-rc.2
+v1.12.1: Pulling from google_containers/cloud-controller-manager-arm64
+acafde7ce2e7: Already exists
+4a2bf12086e4: Pulling fs layer
+v1.12.1-beta.0: Pulling from google_containers/cloud-controller-manager-arm64
+4822d9275fd4: Already exists
+7ff8336b9c44: Pulling fs layer
+v1.12.2: Pulling from google_containers/cloud-controller-manager-arm64
+acafde7ce2e7: Already exists
+4d64b1463412: Pulling fs layer
+v1.12.2-beta.0: Pulling from google_containers/cloud-controller-manager-arm64
+acafde7ce2e7: Already exists
+4dec99a8bf91: Pulling fs layer
+4dec99a8bf91: Waiting
+4a2bf12086e4: Verifying Checksum
+4a2bf12086e4: Download complete
+v1.12.3: Pulling from google_containers/cloud-controller-manager-arm64
+acafde7ce2e7: Already exists
+c4c536b7cdf9: Pulling fs layer
+c4c536b7cdf9: Waiting
+v1.12.3-beta.0: Pulling from google_containers/cloud-controller-manager-arm64
+acafde7ce2e7: Already exists
+039a861da5b3: Pulling fs layer
+039a861da5b3: Waiting
+4d64b1463412: Verifying Checksum
+4d64b1463412: Download complete
+7ff8336b9c44: Verifying Checksum
+7ff8336b9c44: Download complete
+4dec99a8bf91: Verifying Checksum
+4dec99a8bf91: Download complete
+v1.12.4: Pulling from google_containers/cloud-controller-manager-arm64
+acafde7ce2e7: Already exists
+v1.12.4-beta.0: Pulling from google_containers/cloud-controller-manager-arm64
+v1.12.5: v1.12.5-beta.0: Pulling from google_containers/cloud-controller-manager-arm64
+Pulling from google_containers/cloud-controller-manager-arm64
+c4c536b7cdf9: Verifying Checksum
+c4c536b7cdf9: Download complete
+039a861da5b3: Verifying Checksum
+039a861da5b3: Download complete
+acafde7ce2e7: Already exists
+acafde7ce2e7: Already exists
+33a0060ddd61: Already exists
+29496664dba7: Pulling fs layer
+29496664dba7: Verifying Checksum
+29496664dba7: Download complete
+9b720ee53380: Pulling fs layer
+9b720ee53380: Verifying Checksum
+9b720ee53380: Download complete
+4d64b1463412: Pull complete
+7ff8336b9c44: Pull complete
+039a861da5b3: Pull complete
+4a2bf12086e4: c4c536b7cdf9: Pull complete
+Pull complete
+4dec99a8bf91: Pull complete
+47cdabf4ed2f: Pulling fs layer
+47cdabf4ed2f: Download complete
+29496664dba7: Pull complete
+bee0cced4202: Pulling fs layer
+bee0cced4202: Verifying Checksum
+bee0cced4202: Download complete
+47cdabf4ed2f: Pull complete
+9b720ee53380: Pull complete
+bee0cced4202: Pull complete
+Digest: sha256:6a0097f3e842c663042037e9b4cf548a1112e503736c804d534984c332bd13d9
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.12.1-beta.0
+Digest: sha256:3a8ea76cac0b55ebaf113696fc972dd3d8b5c486205fd09af2ce2c0b28b387ba
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.12.2
+Digest: sha256:441116f3e341a5c469a5e608210aca9e2442448151fe79eac8a109a410f2367a
+Digest: sha256:aaaaeca782d9ac663322da24f3d30190091a098f92d0fdf4fc2ae25b3ea3f96f
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.12.3
+Digest: sha256:49827128473f32a9ee695ffd47148609a2b35ee29a0c70a98871fdc9714d32f6
+Digest: sha256:02d2f91a21f87e7ff1a142ea2e5a67eb8bb90d96afe89b7e38916794038dbfc9
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.12.1
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.12.2-beta.0
+Digest: sha256:255f697ec6fba415e59f3e25426d05ce7753d776f8c812b8eab9208d70071e5a
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.12.3-beta.0
+Digest: sha256:ca3e4c5b9e6f0cb7f76abed43a0289a428c6ddeb1e8f73a9b4d03f92980d4ac3
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.12.4
+Digest: sha256:1abb92c3fbbc2519d201e96ce3b9c2e401694b87255477ed3bc7dd37747e30d4
+Digest: sha256:e52b01c78c030bb3ed2f5fcb4e2683f27e4c38e08cf78c2a97f712104471fbf1
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.12.4-beta.0
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.12.5-beta.0
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.12.5
+v1.12.6: Pulling from google_containers/cloud-controller-manager-arm64
+596fa44d463e: Already exists
+cc33a0677550: Pulling fs layer
+v1.12.6-beta.0: Pulling from google_containers/cloud-controller-manager-arm64
+33a0060ddd61: Already exists
+ce21ed8d2d46: Pulling fs layer
+v1.12.7-beta.0: Pulling from google_containers/cloud-controller-manager-arm64
+596fa44d463e: Already exists
+9e7901e8efb0: Pulling fs layer
+v1.13.0: Pulling from google_containers/cloud-controller-manager-arm64
+0a886694efc8: Pulling fs layer
+99c65b5ea0bc: Pulling fs layer
+0a886694efc8: Waiting
+99c65b5ea0bc: Waiting
+v1.13.0-alpha.0: Pulling from google_containers/cloud-controller-manager-arm64
+4822d9275fd4: Already exists
+f624cf493662: Pulling fs layer
+f624cf493662: Waiting
+ce21ed8d2d46: Verifying Checksum
+ce21ed8d2d46: Download complete
+cc33a0677550: Verifying Checksum
+cc33a0677550: Download complete
+v1.13.0-alpha.3: Pulling from google_containers/cloud-controller-manager-arm64
+0a886694efc8: Pulling fs layer
+c17321002be5: Pulling fs layer
+c17321002be5: Waiting
+9e7901e8efb0: Verifying Checksum
+9e7901e8efb0: Download complete
+v1.13.0-beta.0: Pulling from google_containers/cloud-controller-manager-arm64
+0a886694efc8: Pulling fs layer
+2fbc7e174e10: Pulling fs layer
+2fbc7e174e10: Waiting
+0a886694efc8: Verifying Checksum
+0a886694efc8: Verifying Checksum
+0a886694efc8: Verifying Checksum
+0a886694efc8: Download complete
+0a886694efc8: 0a886694efc8: Download complete
+Download complete
+v1.13.0-beta.1: Pulling from google_containers/cloud-controller-manager-arm64
+0a886694efc8: Pulling fs layer
+f5caf4a3c5c8: Pulling fs layer
+f5caf4a3c5c8: Waiting
+99c65b5ea0bc: Verifying Checksum
+99c65b5ea0bc: Download complete
+f624cf493662: Verifying Checksum
+f624cf493662: Download complete
+v1.13.0-beta.2: Pulling from google_containers/cloud-controller-manager-arm64
+0a886694efc8: Pulling fs layer
+ae6ff5f0d420: Pulling fs layer
+ae6ff5f0d420: Waiting
+v1.13.0-rc.1: Pulling from google_containers/cloud-controller-manager-arm64
+0a886694efc8: Pulling fs layer
+26824be340fb: Pulling fs layer
+26824be340fb: Waiting
+0a886694efc8: Pull complete
+0a886694efc8: Pull complete
+0a886694efc8: Pull complete
+0a886694efc8: Pull complete
+0a886694efc8: Pull complete
+0a886694efc8: Pull complete
+c17321002be5: Verifying Checksum
+c17321002be5: Download complete
+f5caf4a3c5c8: Verifying Checksum
+f5caf4a3c5c8: Download complete
+2fbc7e174e10: Verifying Checksum
+2fbc7e174e10: Download complete
+ae6ff5f0d420: Verifying Checksum
+ae6ff5f0d420: Download complete
+26824be340fb: Verifying Checksum
+26824be340fb: Download complete
+ce21ed8d2d46: f624cf493662: Pull complete
+Pull complete
+f5caf4a3c5c8: Pull complete
+c17321002be5: Pull complete
+99c65b5ea0bc: Pull complete
+cc33a0677550: Pull complete
+ae6ff5f0d420: Pull complete
+9e7901e8efb0: Pull complete
+2fbc7e174e10: Pull complete
+26824be340fb: Pull complete
+Digest: sha256:229ca4517058c8813e2cf5c50ee765af1c6bc78faafbeb0ba622f70953f8ee58
+Digest: sha256:7aad7e1e31e62a9095150388427de774667eb6ce39d00e29e3fbba22d0b1eb0f
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.13.0
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.13.0-rc.1
+Digest: sha256:6149dbee2f2026a8b594012f5e0f2dcd51227406cdbfda7c419fdb1442947fd1
+Digest: sha256:5010bc86e4163525e53602208461c2fd60df86c41e6b5a6ca82c561bffe68d19
+Digest: sha256:2db3176b83f603d0b4359f74affc6fd110f4222d89b128b41f8ade370951124d
+Digest: sha256:448de72bd51e626599b9da165511f6dfe2db5172e4ebe3a518e4b902ad58b990
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.12.6
+Digest: sha256:35008f282970c7771e29e7c62ce854a15963a4f04b3d681a075f45edcf9d944a
+Digest: sha256:346739c5db1a1753d357e3902cd27d96207fe39296d4734a0404a19363d39aee
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.13.0-beta.2
+Digest: sha256:fc93678f1e338e13439846fb382eff94f1a248e2af8c4bf3e47a75074b199b36
+Digest: sha256:91a7adcd74c24f5e9a3478c7b71833dd8dd6b69a81407f4b286ca0d29c917dd4
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.12.6-beta.0
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.13.0-alpha.3
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.12.7-beta.0
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.13.0-beta.0
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.13.0-beta.1
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.13.0-alpha.0
+v1.13.0-rc.2: Pulling from google_containers/cloud-controller-manager-arm64
+0a886694efc8: Already exists
+e75dd9718f96: Pulling fs layer
+v1.13.1: Pulling from google_containers/cloud-controller-manager-arm64
+0a886694efc8: Already exists
+35316081154b: Pulling fs layer
+v1.13.1-beta.0: Pulling from google_containers/cloud-controller-manager-arm64
+0a886694efc8: Already exists
+0140138977c4: Pulling fs layer
+v1.13.2: Pulling from google_containers/cloud-controller-manager-arm64
+0a886694efc8: Already exists
+395958e5b087: Pulling fs layer
+395958e5b087: Waiting
+e75dd9718f96: Verifying Checksum
+e75dd9718f96: Download complete
+0140138977c4: Verifying Checksum
+0140138977c4: Download complete
+v1.13.2-beta.0: Pulling from google_containers/cloud-controller-manager-arm64
+0a886694efc8: Already exists
+35316081154b: Verifying Checksum
+35316081154b: Download complete
+4c213b5cbaff: Pulling fs layer
+v1.13.3: Pulling from google_containers/cloud-controller-manager-arm64
+0a886694efc8: Already exists
+v1.13.3-beta.0: v1.13.4: Pulling from google_containers/cloud-controller-manager-arm64
+Pulling from google_containers/cloud-controller-manager-arm64
+v1.13.4-beta.0: Pulling from google_containers/cloud-controller-manager-arm64
+v1.13.5-beta.0: Pulling from google_containers/cloud-controller-manager-arm64
+395958e5b087: Verifying Checksum
+395958e5b087: Download complete
+4c213b5cbaff: Verifying Checksum
+4c213b5cbaff: Download complete
+0a886694efc8: Already exists
+0a886694efc8: Already exists
+b6fbc61d418b: Pulling fs layer
+0a886694efc8: Already exists
+0a886694efc8: Already exists
+99af97eb3401: Pulling fs layer
+35316081154b: Pull complete
+e75dd9718f96: Pull complete
+0140138977c4: Pull complete
+4c213b5cbaff: Pull complete
+395958e5b087: Pull complete
+4e5e1bf277a8: Pulling fs layer
+c5dd575cf9cc: Pulling fs layer
+c5dd575cf9cc: Waiting
+1dd48b2964da: Pulling fs layer
+1dd48b2964da: Waiting
+Digest: sha256:756a59f4e74b2a7d2de37554dac5a13aa47a444416ca79424accbbe8eead22c7
+Digest: sha256:f1c20211c1b8009c76c4ae15a76016067d731d5869e6bb752cb1e83b49dccbee
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.13.1
+Digest: sha256:4c280c00f88beb7c98cb2fea2434eddd0194b6612269eba883908f46e303049c
+Digest: sha256:a46903d438e626189684420e3c0bdbf81e3e8604d5e4644669544a40f431148f
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.13.0-rc.2
+Digest: sha256:5595931763397be8084c1598f35a4b3f7ed48c270ce6f7a500241bf274cafc04
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.13.1-beta.0
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.13.2
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.13.2-beta.0
+99af97eb3401: Verifying Checksum
+99af97eb3401: Download complete
+b6fbc61d418b: Verifying Checksum
+b6fbc61d418b: Download complete
+4e5e1bf277a8: Verifying Checksum
+4e5e1bf277a8: Download complete
+c5dd575cf9cc: Verifying Checksum
+c5dd575cf9cc: Download complete
+1dd48b2964da: Verifying Checksum
+1dd48b2964da: Download complete
+b6fbc61d418b: Pull complete
+99af97eb3401: Pull complete
+c5dd575cf9cc: Pull complete
+1dd48b2964da: Pull complete
+4e5e1bf277a8: Pull complete
+Digest: sha256:e0dab89100d17e382d8dd0be8e91c5cf47322ab314a4f01e206d05940380e079
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.13.3
+Digest: sha256:e8ee386cda2cfc736b84cae34501b61942e758468dd6d4373db16fa4deec344d
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.13.3-beta.0
+Digest: sha256:80594d7538b66b91f97f9fade6708ab2ae103450ebd8e96c65b38ac014ed95f3
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.13.5-beta.0
+Digest: sha256:6c4475b62b55f53dbea1ddad2c4d51be8f09f189ca3e5d9fdba4bf0f2511bd2e
+Digest: sha256:479d08874b134aec945ae2eab2e6e20f6173b035329beb931dffdb264041fc79
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.13.4
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.13.4-beta.0
+v1.14.0-alpha.0: Pulling from google_containers/cloud-controller-manager-arm64
+0a886694efc8: Already exists
+d497f9c1036a: Pulling fs layer
+v1.14.0-alpha.1: Pulling from google_containers/cloud-controller-manager-arm64
+0a886694efc8: Already exists
+97f2d0754cf5: Pulling fs layer
+d497f9c1036a: Verifying Checksum
+d497f9c1036a: Download complete
+v1.14.0-alpha.2: Pulling from google_containers/cloud-controller-manager-arm64
+0a886694efc8: Already exists
+8c803133ef57: Pulling fs layer
+v1.14.0-alpha.3: Pulling from google_containers/cloud-controller-manager-arm64
+9eaa7f24d849: Pulling fs layer
+d951f407a83e: Pulling fs layer
+d951f407a83e: Waiting
+97f2d0754cf5: Verifying Checksum
+97f2d0754cf5: Download complete
+8c803133ef57: Verifying Checksum
+8c803133ef57: Download complete
+v1.14.0-beta.0: Pulling from google_containers/cloud-controller-manager-arm64
+9eaa7f24d849: Pulling fs layer
+5be55685b078: Pulling fs layer
+d497f9c1036a: Pull complete
+Digest: sha256:edb1cc9100c8818e25795a98eac6f66150610ed880c96e79ff836984914231cc
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.14.0-alpha.0
+9eaa7f24d849: Verifying Checksum
+9eaa7f24d849: Download complete
+9eaa7f24d849: Verifying Checksum
+9eaa7f24d849: Download complete
+v1.14.0-beta.1: Pulling from google_containers/cloud-controller-manager-arm64
+9eaa7f24d849: Pulling fs layer
+82e2f857ac03: Pulling fs layer
+9eaa7f24d849: Download complete
+v1.15.0-alpha.0: Pulling from google_containers/cloud-controller-manager-arm64
+9eaa7f24d849: Pulling fs layer
+7847e5f07656: Pulling fs layer
+9eaa7f24d849: Download complete
+7847e5f07656: Waiting
+v1.7.0: Pulling from google_containers/cloud-controller-manager-arm64
+a281075b7e6c: Pulling fs layer
+8805e44eb64b: Pulling fs layer
+a281075b7e6c: Waiting
+8805e44eb64b: Waiting
+d951f407a83e: Verifying Checksum
+d951f407a83e: Download complete
+v1.7.1: Pulling from google_containers/cloud-controller-manager-arm64
+a281075b7e6c: Pulling fs layer
+cded421db755: Pulling fs layer
+a281075b7e6c: Waiting
+cded421db755: Waiting
+5be55685b078: Verifying Checksum
+5be55685b078: Download complete
+v1.7.10: Pulling from google_containers/cloud-controller-manager-arm64
+a281075b7e6c: Pulling fs layer
+266eb25ed483: Pulling fs layer
+a281075b7e6c: Waiting
+266eb25ed483: Waiting
+82e2f857ac03: Verifying Checksum
+82e2f857ac03: Download complete
+8c803133ef57: Pull complete
+Digest: sha256:165f515da0d198d84af629af8f1af9f3b28c36109629563c84fd00a34d4e7e36
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.14.0-alpha.2
+7847e5f07656: Verifying Checksum
+7847e5f07656: Download complete
+a281075b7e6c: Verifying Checksum
+a281075b7e6c: Verifying Checksum
+a281075b7e6c: Verifying Checksum
+a281075b7e6c: Download complete
+97f2d0754cf5: Pull complete
+Digest: sha256:54659a00c67936ef3be12f1ef03b404d48394f0a35074c6f8903ff8fe8f89ba4
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.14.0-alpha.1
+a281075b7e6c: Download complete
+a281075b7e6c: Download complete
+v1.7.10-beta.0: Pulling from google_containers/cloud-controller-manager-arm64
+a281075b7e6c: Pulling fs layer
+d68a046ef5c6: Pulling fs layer
+d68a046ef5c6: Waiting
+a281075b7e6c: Pull complete
+a281075b7e6c: Pull complete
+a281075b7e6c: Pull complete
+a281075b7e6c: Pull complete
+9eaa7f24d849: Pull complete
+9eaa7f24d849: Pull complete
+9eaa7f24d849: Pull complete
+9eaa7f24d849: Pull complete
+cded421db755: Verifying Checksum
+cded421db755: Download complete
+266eb25ed483: Verifying Checksum
+266eb25ed483: Download complete
+v1.7.11: Pulling from google_containers/cloud-controller-manager-arm64
+a281075b7e6c: Already exists
+8805e44eb64b: Verifying Checksum
+8805e44eb64b: Download complete
+v1.7.11-beta.0: Pulling from google_containers/cloud-controller-manager-arm64
+a281075b7e6c: Already exists
+d68a046ef5c6: Verifying Checksum
+d68a046ef5c6: Download complete
+2e49a44320e7: Pulling fs layer
+2e49a44320e7: Verifying Checksum
+2e49a44320e7: Download complete
+fd15c50880a0: Pulling fs layer
+fd15c50880a0: Verifying Checksum
+fd15c50880a0: Download complete
+82e2f857ac03: Pull complete
+d951f407a83e: Pull complete
+7847e5f07656: Pull complete
+266eb25ed483: Pull complete
+5be55685b078: 8805e44eb64b: Pull complete
+Pull complete
+cded421db755: Pull complete
+d68a046ef5c6: Pull complete
+2e49a44320e7: Pull complete
+Digest: sha256:bd122cf9ca7b17ce260e4a640e65817a6bc103669c244790c4ec82c4992f3500
+fd15c50880a0: Pull complete
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.14.0-beta.1
+Digest: sha256:1906abe85dd404aa87f17c2d1055a88057a7acf933c13fd9a5f42a5dea17e684
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.7.1
+Digest: sha256:bcc773717697cf236407fe5aa4be0af991a27c808a3b6c466c1fdbe4b7d59716
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.7.0
+Digest: sha256:a515ef27545441006a1be8983dc1e712b554110572d08ca396e59677693ede3a
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.7.10
+Digest: sha256:d07021c76ad8204831ade34f04b2e1e5f86a4a93ea648932c37d30b573419d62
+Digest: sha256:30a957a239012b6337da9864aeff61f5ecb7e4d2e089eccb24f9758e12e98271
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.15.0-alpha.0
+Digest: sha256:fd1e5a77c9eb6b125db5fe2b14e44d0de4b29d8ae0a819173597e5b8715e9e2e
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.14.0-alpha.3
+Digest: sha256:ca26e2853772e62142b0cc60a209d0c7974f80b0ede93ff11d6bf4d689b749e3
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.7.11
+Digest: sha256:726d6576f695aa161285590732688858a12a3e626441ea0620c5ed9db1292823
+Digest: sha256:22e95c95eeff7f0a180fd98a85ad8aa9109dedf66c97f14b03e7374e0eb55d20
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.7.10-beta.0
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.7.11-beta.0
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.14.0-beta.0
+v1.7.12: Pulling from google_containers/cloud-controller-manager-arm64
+a281075b7e6c: Already exists
+2bd660729ae3: Pulling fs layer
+v1.7.12-beta.0: Pulling from google_containers/cloud-controller-manager-arm64
+Digest: sha256:ca26e2853772e62142b0cc60a209d0c7974f80b0ede93ff11d6bf4d689b749e3
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.7.12-beta.0
+v1.7.13: Pulling from google_containers/cloud-controller-manager-arm64
+19e100455de7: Pulling fs layer
+c663f77898d6: Pulling fs layer
+19e100455de7: Verifying Checksum
+19e100455de7: Download complete
+v1.7.13-beta.0: Pulling from google_containers/cloud-controller-manager-arm64
+a281075b7e6c: Already exists
+2bd660729ae3: Verifying Checksum
+2bd660729ae3: Download complete
+c663f77898d6: Verifying Checksum
+c663f77898d6: Download complete
+2bd660729ae3: Pulling fs layer
+v1.7.14: Pulling from google_containers/cloud-controller-manager-arm64
+19e100455de7: Pulling fs layer
+6d74cda87b3a: Pulling fs layer
+v1.7.14-beta.0: Pulling from google_containers/cloud-controller-manager-arm64
+19e100455de7: Pulling fs layer
+6958e5d585c0: Pulling fs layer
+v1.7.15: Pulling from google_containers/cloud-controller-manager-arm64
+19e100455de7: Pulling fs layer
+3c8234e327c3: Pulling fs layer
+v1.7.15-beta.0: Pulling from google_containers/cloud-controller-manager-arm64
+19e100455de7: Pulling fs layer
+d56f67a2a9bb: Pulling fs layer
+d56f67a2a9bb: Waiting
+v1.7.16: Pulling from google_containers/cloud-controller-manager-arm64
+19e100455de7: Pulling fs layer
+2d1ae1b8225d: Pulling fs layer
+2d1ae1b8225d: Waiting
+v1.7.16-beta.0: Pulling from google_containers/cloud-controller-manager-arm64
+19e100455de7: Pulling fs layer
+936196f73e8a: Pulling fs layer
+936196f73e8a: Waiting
+v1.7.17-beta.0: Pulling from google_containers/cloud-controller-manager-arm64
+19e100455de7: Pulling fs layer
+fc07749cf7e7: Pulling fs layer
+fc07749cf7e7: Waiting
+6958e5d585c0: Verifying Checksum
+6958e5d585c0: Download complete
+3c8234e327c3: Verifying Checksum
+3c8234e327c3: Download complete
+6d74cda87b3a: Verifying Checksum
+6d74cda87b3a: Download complete
+d56f67a2a9bb: Verifying Checksum
+d56f67a2a9bb: Download complete
+936196f73e8a: Verifying Checksum
+936196f73e8a: Download complete
+2d1ae1b8225d: Verifying Checksum
+2d1ae1b8225d: Download complete
+fc07749cf7e7: Verifying Checksum
+fc07749cf7e7: Download complete
+19e100455de7: Pull complete
+19e100455de7: Pull complete
+19e100455de7: Pull complete
+19e100455de7: Pull complete
+19e100455de7: Pull complete
+19e100455de7: Pull complete
+19e100455de7: Pull complete
+19e100455de7: Pull complete
+2bd660729ae3: Pull complete
+2bd660729ae3: Pull complete
+Digest: sha256:ad60887e909b84412510b5f20cf978ba5b6eb65aa015e8f6e0765d622f92db6f
+Digest: sha256:ad60887e909b84412510b5f20cf978ba5b6eb65aa015e8f6e0765d622f92db6f
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.7.12
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.7.13-beta.0
+d56f67a2a9bb: Pull complete
+Digest: sha256:7eb09457f94c21fc79108c21413095c537da75b37135f9c41fd4bb34f39a16c0
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.7.15-beta.0
+6d74cda87b3a: Pull complete
+Digest: sha256:adf6885bccd504e56c6def308009e5af85f05670c096c81012aa60eec21037b9
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.7.14
+3c8234e327c3: Pull complete
+Digest: sha256:851d10f8f06ecd5987491a3ca7f8c956c09673ef48bf361e7a838c96be7d05a0
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.7.15
+v1.7.2: Pulling from google_containers/cloud-controller-manager-arm64
+a281075b7e6c: Already exists
+ff87bf3fea88: Pulling fs layer
+v1.7.3: Pulling from google_containers/cloud-controller-manager-arm64
+a281075b7e6c: Already exists
+ff87bf3fea88: Verifying Checksum
+ff87bf3fea88: Download complete
+4d68fe751c2e: Pulling fs layer
+4d68fe751c2e: Verifying Checksum
+4d68fe751c2e: Download complete
+6958e5d585c0: Pull complete
+936196f73e8a: Pull complete
+fc07749cf7e7: Pull complete
+2d1ae1b8225d: Pull complete
+c663f77898d6: Pull complete
+4d68fe751c2e: Pull complete
+ff87bf3fea88: Pull complete
+Digest: sha256:ddc02f486f361026db65efbf70a15981c430c051235c60648211062fa7cf5984
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.7.16
+Digest: sha256:17a1f9fd25202ea6f2dc68ea51feaf7b22d563807cfc77fdc23ae1436ca41edd
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.7.14-beta.0
+Digest: sha256:d4e36edb664d3cfef3f6a472b45baa68d0d423a899c2260737b3985270b1c3b0
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.7.13
+Digest: sha256:e3748c89a63f547c659c6232c8038fca2e11c1072358dd5f1229b7d6325a69dd
+Digest: sha256:49f76f050a94559602e18fa34de748f1d58c7f0599082d6e0e2a0f018c926f68
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.7.17-beta.0
+Digest: sha256:ec378802e40550066f501df89bfa28debfd461681274ff3b45c09369a0e421df
+Digest: sha256:112add6b42eddacc84ba78986c78118d160dfe9d0e6f7e3e442e39dfde514487
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.7.16-beta.0
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.7.2
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.7.3
+v1.7.3-beta.0: Pulling from google_containers/cloud-controller-manager-arm64
+a281075b7e6c: Already exists
+1b7c3092d6b0: Pulling fs layer
+v1.7.4: Pulling from google_containers/cloud-controller-manager-arm64
+a281075b7e6c: Already exists
+3ff91a4d5134: Pulling fs layer
+v1.7.4-beta.0: Pulling from google_containers/cloud-controller-manager-arm64
+a281075b7e6c: Already exists
+e59e4363c809: Pulling fs layer
+1b7c3092d6b0: Verifying Checksum
+1b7c3092d6b0: Download complete
+v1.7.5: Pulling from google_containers/cloud-controller-manager-arm64
+a281075b7e6c: Already exists
+5f8bddf21321: Pulling fs layer
+v1.7.5-beta.0: Pulling from google_containers/cloud-controller-manager-arm64
+a281075b7e6c: Already exists
+af669df1f748: Pulling fs layer
+af669df1f748: Waiting
+e59e4363c809: Verifying Checksum
+e59e4363c809: Download complete
+3ff91a4d5134: Verifying Checksum
+3ff91a4d5134: Download complete
+v1.7.6: Pulling from google_containers/cloud-controller-manager-arm64
+a281075b7e6c: Already exists
+5011700def83: Pulling fs layer
+5f8bddf21321: Verifying Checksum
+5f8bddf21321: Download complete
+v1.7.6-beta.0: Pulling from google_containers/cloud-controller-manager-arm64
+a281075b7e6c: Already exists
+5216b0ffeecf: Pulling fs layer
+1b7c3092d6b0: Pull complete
+Digest: sha256:588897cb9651f85e91b87252631ec122aa835b2a3fa1a508e6b82ec82bb061c9
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.7.3-beta.0
+v1.7.7: Pulling from google_containers/cloud-controller-manager-arm64
+a281075b7e6c: Already exists
+af669df1f748: Verifying Checksum
+af669df1f748: Download complete
+v1.7.7-beta.0: Pulling from google_containers/cloud-controller-manager-arm64
+v1.7.8: Pulling from google_containers/cloud-controller-manager-arm64
+5011700def83: Verifying Checksum
+5011700def83: Download complete
+5216b0ffeecf: Verifying Checksum
+5216b0ffeecf: Download complete
+a281075b7e6c: Already exists
+e184b4d27018: Pulling fs layer
+a281075b7e6c: Already exists
+e184b4d27018: Download complete
+v1.7.8-beta.0: Pulling from google_containers/cloud-controller-manager-arm64
+a281075b7e6c: Already exists
+69bc3a12be92: Pulling fs layer
+3ff91a4d5134: Pull complete
+e59e4363c809: Pull complete
+5f8bddf21321: Pull complete
+af669df1f748: Pull complete
+e85737c994f0: Pulling fs layer
+5216b0ffeecf: Pull complete
+5011700def83: Pull complete
+e184b4d27018: Pull complete
+9dc6c4a18c8c: Pulling fs layer
+Digest: sha256:a3c46599df3ab2c57ddd98e20c1c129a1c8dcc51063f57cfda6543791a45b20c
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.7.4-beta.0
+Digest: sha256:26c165ab94ac02d763ac8516bcd155e4845e2bce08c98c810a53fd5afb479a81
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.7.4
+Digest: sha256:7729f97f6eb3e6222a1613d33f8906865a94f6e86fa80957dfbdb11bb2623ac6
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.7.5-beta.0
+Digest: sha256:3a079753380c11021b95d627554436b673b5ba0e9977c12caca52f56bec93139
+Digest: sha256:bb70ace25b812eb78c6550d850225f9d224442d0c358c5645510832bf1ed3eee
+Digest: sha256:422339f3c49f8569a95fcdc582de984c19a6f3a9386aa44a61c09b040b7095d3
+Digest: sha256:413e13db0be5cf3e7f782a7f1a2cb615c6eb0db64fc7d8a9c93cf9d254455f3d
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.7.6-beta.0
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.7.5
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.7.6
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.7.7
+69bc3a12be92: Verifying Checksum
+69bc3a12be92: Download complete
+e85737c994f0: Verifying Checksum
+e85737c994f0: Download complete
+9dc6c4a18c8c: Verifying Checksum
+9dc6c4a18c8c: Download complete
+v1.7.9: Pulling from google_containers/cloud-controller-manager-arm64
+a281075b7e6c: Already exists
+v1.7.9-beta.0: Pulling from google_containers/cloud-controller-manager-arm64
+v1.8.0-alpha.3: Pulling from google_containers/cloud-controller-manager-arm64
+a281075b7e6c: Already exists
+a281075b7e6c: Already exists
+ad9ac736ffb8: Pulling fs layer
+a09031226ccb: Pulling fs layer
+0480a13cba38: Pulling fs layer
+v1.8.0-rc.1: Pulling from google_containers/cloud-controller-manager-arm64
+9f10ca7b1067: Pulling fs layer
+f332b7efbc8e: Pulling fs layer
+9f10ca7b1067: Waiting
+f332b7efbc8e: Waiting
+v1.8.1-beta.0: Pulling from google_containers/cloud-controller-manager-arm64
+9f10ca7b1067: Pulling fs layer
+e8269c7cf435: Pulling fs layer
+9f10ca7b1067: Waiting
+e8269c7cf435: Waiting
+0480a13cba38: Verifying Checksum
+0480a13cba38: Download complete
+a09031226ccb: Verifying Checksum
+a09031226ccb: Download complete
+v1.8.15: Pulling from google_containers/cloud-controller-manager-arm64
+ad9ac736ffb8: Verifying Checksum
+ad9ac736ffb8: Download complete
+778a4afaeeb0: Already exists
+9f10ca7b1067: Verifying Checksum
+9f10ca7b1067: Download complete
+9f10ca7b1067: Verifying Checksum
+9f10ca7b1067: Download complete
+v1.8.2: Pulling from google_containers/cloud-controller-manager-arm64
+9f10ca7b1067: Pulling fs layer
+2298532ef5b3: Pulling fs layer
+e8269c7cf435: Verifying Checksum
+e8269c7cf435: Download complete
+f332b7efbc8e: Verifying Checksum
+f332b7efbc8e: Download complete
+2298532ef5b3: Verifying Checksum
+2298532ef5b3: Download complete
+9dc6c4a18c8c: Pull complete
+221603f353df: Pulling fs layer
+221603f353df: Download complete
+9f10ca7b1067: 9f10ca7b1067: Pull complete
+Pull complete
+9f10ca7b1067: Pull complete
+69bc3a12be92: Pull complete
+Digest: sha256:1fedddb18341a24cf5e9397f41501cd3d2eb8b01a307e5a82b1bf1b22e7cb15c
+e85737c994f0: Pull complete
+ad9ac736ffb8: Pull complete
+0480a13cba38: Pull complete
+a09031226ccb: Pull complete
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.7.8-beta.0
+221603f353df: Pull complete
+Digest: sha256:361da27fd660c97fc26a7c9025e31d00ba49fc4d1d5d8442ed802dbccfb777c8
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.7.9
+Digest: sha256:54f6a20784cc5dbf83f1a9fb4564a37b4e01a9af608632fec96c733f0001283d
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.7.9-beta.0
+Digest: sha256:053d7067c1908e72f39d02b0ae538dfab570b88a9db6a038c45241399947fc46
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.8.0-alpha.3
+Digest: sha256:88b606f1fd552aca315e8e0702e6e9d1f8fabf8abae2ec3247596fb0a1dfd881
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.7.7-beta.0
+Digest: sha256:d44cadf8538f3f328a78b6b718635c2def14f5ca6c188cac30a136097e0bec83
+Digest: sha256:25bbf05183a371b77bbae0d3962c22c97a14141cbf77f465aaed6b236c0de614
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.7.8
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.8.15
+e8269c7cf435: Pull complete
+2298532ef5b3: Pull complete
+f332b7efbc8e: Pull complete
+Digest: sha256:6113f9df14287965e822d5b97c0aa75af46bb29a71c2da2b81cc90414e3f8c54
+Digest: sha256:f2ae1502b9a300486d0d5e953a16cfac2a905e9eada082b42af6583e0b9e58d9
+Digest: sha256:401a2c2470e1fb95051388dc82c632a952cc72b90979cfdb1a2494a585f3e98a
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.8.2
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.8.0-rc.1
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.8.1-beta.0
+v1.8.6-beta.0: Pulling from google_containers/cloud-controller-manager-arm64
+9c12cdffb223: Already exists
+f4ced2fc4e74: Pulling fs layer
+v1.8.7-beta.0: Pulling from google_containers/cloud-controller-manager-arm64
+9c12cdffb223: Already exists
+d8e415a7ee57: Pulling fs layer
+f4ced2fc4e74: Verifying Checksum
+f4ced2fc4e74: Download complete
+d8e415a7ee57: Verifying Checksum
+d8e415a7ee57: Download complete
+v1.8.9: Pulling from google_containers/cloud-controller-manager-arm64
+8996f62fa48d: Already exists
+63336d1f8630: Pulling fs layer
+v1.8.9-beta.0: Pulling from google_containers/cloud-controller-manager-arm64
+509eddf12162: Already exists
+188085072bdb: Pulling fs layer
+v1.9.0-alpha.0: Pulling from google_containers/cloud-controller-manager-arm64
+a281075b7e6c: Already exists
+97c3a2c41866: Pulling fs layer
+63336d1f8630: Verifying Checksum
+63336d1f8630: Download complete
+v1.9.0-alpha.2: Pulling from google_containers/cloud-controller-manager-arm64
+9f10ca7b1067: Already exists
+c7a0a1c06da2: Pulling fs layer
+v1.9.0-beta.0: Pulling from google_containers/cloud-controller-manager-arm64
+9c12cdffb223: Already exists
+5f55ff030074: Pulling fs layer
+5f55ff030074: Waiting
+f4ced2fc4e74: Pull complete
+Digest: sha256:8de0f90ab4d7cc13688f20410fc6568225c603c09ab3d6cbdfea50bebdbf9c18
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.8.6-beta.0
+97c3a2c41866: Verifying Checksum
+97c3a2c41866: Download complete
+d8e415a7ee57: Pull complete
+Digest: sha256:5ffc08d7772dff5de6a7115071ea1b47aa91ea50d5124a046e1e80596723f2da
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.8.7-beta.0
+v1.9.10: Pulling from google_containers/cloud-controller-manager-arm64
+188085072bdb: Verifying Checksum
+188085072bdb: Download complete
+4822d9275fd4: Already exists
+34d2898d9a00: Pulling fs layer
+v1.9.10-beta.0: Pulling from google_containers/cloud-controller-manager-arm64
+778a4afaeeb0: Already exists
+14d5d84b380e: Pulling fs layer
+14d5d84b380e: Waiting
+v1.9.11: Pulling from google_containers/cloud-controller-manager-arm64
+4822d9275fd4: Already exists
+c7a0a1c06da2: Verifying Checksum
+c7a0a1c06da2: Download complete
+08d2ef328b1b: Pulling fs layer
+08d2ef328b1b: Waiting
+5f55ff030074: Verifying Checksum
+5f55ff030074: Download complete
+v1.9.12-beta.0: Pulling from google_containers/cloud-controller-manager-arm64
+4822d9275fd4: Already exists
+v1.9.11-beta.0: Pulling from google_containers/cloud-controller-manager-arm64
+4822d9275fd4: Already exists
+34d2898d9a00: Verifying Checksum
+34d2898d9a00: Download complete
+14d5d84b380e: Verifying Checksum
+14d5d84b380e: Download complete
+08d2ef328b1b: Verifying Checksum
+08d2ef328b1b: Download complete
+3f5b5b852f03: Pulling fs layer
+9b14bd1c176c: Pulling fs layer
+c7a0a1c06da2: Pull complete
+188085072bdb: Pull complete
+97c3a2c41866: Pull complete
+63336d1f8630: Pull complete
+5f55ff030074: Pull complete
+34d2898d9a00: 08d2ef328b1b: Pull complete
+Pull complete
+14d5d84b380e: Pull complete
+Digest: sha256:d83c3c2e41733aa2a2723c7a26a51801a6a5b2bc23608bf0420702eb7768a834
+Digest: sha256:8431a1ef6fd61833f29f6da26b1709f1d40b2a4b904ba20c960535eb31461fe4
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.9.0-alpha.2
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.9.10
+Digest: sha256:8b25f93ebd6138c1adc33d7e22eb153702a76d42a9aebefdeeb0193485ed2eef
+Digest: sha256:56554c5528a1e599bea2bf4a742fc2cffe81e56b3f24ba71537c9933b2d383e6
+Digest: sha256:5acca0673ae116391d13c2ff84633793c3e99cb89fc5a965b80b2eda2ca07fe9
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.9.10-beta.0
+Digest: sha256:179d2d38151abba2b7c7abbb4ed289e3616dc8e1e9a4b90113e3ce6b4f1dc86f
+Digest: sha256:b1ee1719f4b0b52bce4e3fb48df632ecaad4b9679a8c1468eec1841303195440
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.9.11
+Digest: sha256:c3bc79e403f3740ca6d710e2b6b27c70090406b7ac4a0a5bb97be6bf9884a1d0
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.8.9-beta.0
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.9.0-alpha.0
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.9.0-beta.0
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.8.9
+3f5b5b852f03: Verifying Checksum
+3f5b5b852f03: Download complete
+9b14bd1c176c: Verifying Checksum
+9b14bd1c176c: Download complete
+v1.9.2-beta.0: Pulling from google_containers/cloud-controller-manager-arm64
+366ffb9a685d: Pulling fs layer
+21957d7afa6e: Pulling fs layer
+v1.9.3: Pulling from google_containers/cloud-controller-manager-arm64
+509eddf12162: Already exists
+366ffb9a685d: Verifying Checksum
+366ffb9a685d: Download complete
+v1.9.3-beta.0: Pulling from google_containers/cloud-controller-manager-arm64
+v1.9.4: Pulling from google_containers/cloud-controller-manager-arm64
+v1.9.4-beta.0: Pulling from google_containers/cloud-controller-manager-arm64
+21957d7afa6e: Verifying Checksum
+21957d7afa6e: Download complete
+v1.9.5: Pulling from google_containers/cloud-controller-manager-arm64
+v1.9.5-beta.0: Pulling from google_containers/cloud-controller-manager-arm64
+c52f4886fd66: Pulling fs layer
+7114ef20cde1: Pulling fs layer
+8996f62fa48d: Already exists
+8996f62fa48d: Already exists
+v1.9.6: Pulling from google_containers/cloud-controller-manager-arm64
+c52f4886fd66: Verifying Checksum
+c52f4886fd66: Download complete
+7114ef20cde1: Verifying Checksum
+7114ef20cde1: Download complete
+509eddf12162: Already exists
+8996f62fa48d: Already exists
+42bad28c6348: Pulling fs layer
+42bad28c6348: Verifying Checksum
+42bad28c6348: Download complete
+8996f62fa48d: Already exists
+f91bc3a3e10c: Pulling fs layer
+366ffb9a685d: Pull complete
+f91bc3a3e10c: Verifying Checksum
+f91bc3a3e10c: Download complete
+c52f4886fd66: Pull complete
+9b14bd1c176c: Pull complete
+3f5b5b852f03: Pull complete
+42bad28c6348: Pull complete
+f91bc3a3e10c: Pull complete
+c951428cf7e2: Pulling fs layer
+07f76fb48456: Pulling fs layer
+34663c5ad1d5: Pulling fs layer
+45539fc83d82: Pulling fs layer
+45539fc83d82: Waiting
+Digest: sha256:ee1b125207844cfa1e55c897887a1132e2ff18b67ea1f3b14ff56e8c93719a8a
+Digest: sha256:b001a43d0078b957ba43db726ed62b2a2d7193322899cc4392876c78f9f7701e
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.9.11-beta.0
+Digest: sha256:ef7cf0989a671424bdaba51ff75b984d279367f56ded97963534ac9cdaa135bb
+Digest: sha256:63446455f551d673500680182335223e4bd3746d5e46212ced6cf613e4891613
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.9.12-beta.0
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.9.3
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.9.4-beta.0
+c951428cf7e2: Verifying Checksum
+c951428cf7e2: Download complete
+34663c5ad1d5: Verifying Checksum
+34663c5ad1d5: Download complete
+07f76fb48456: Verifying Checksum
+07f76fb48456: Download complete
+v1.9.6-beta.0: Pulling from google_containers/cloud-controller-manager-arm64
+8996f62fa48d: Already exists
+0e555e6c19e7: Pulling fs layer
+v1.9.7: Pulling from google_containers/cloud-controller-manager-arm64
+45354500ca49: Already exists
+43ffa9914869: Pulling fs layer
+45539fc83d82: Verifying Checksum
+45539fc83d82: Download complete
+v1.9.7-beta.0: Pulling from google_containers/cloud-controller-manager-arm64
+8996f62fa48d: Already exists
+v1.9.8: Pulling from google_containers/cloud-controller-manager-arm64
+21957d7afa6e: Pull complete
+45354500ca49: Already exists
+a5b1cf86d890: Pulling fs layer
+ff945632e4ea: Pulling fs layer
+ff945632e4ea: Waiting
+Digest: sha256:6712884baa95ff45e7413c97deda2d7c18de996cd05310d83dcdde217fdfef72
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.9.2-beta.0
+7114ef20cde1: Pull complete
+Digest: sha256:44595509d1fbbfe241579b7f1a3f50c6ab1d0e607862628f9a950a88f7b1fb7c
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.9.3-beta.0
+43ffa9914869: Verifying Checksum
+43ffa9914869: Download complete
+0e555e6c19e7: Verifying Checksum
+0e555e6c19e7: Download complete
+c951428cf7e2: Pull complete
+Digest: sha256:8f67526c5d5bdde07553564bf7145ab389ad193641a5be05468877b83cb226ca
+a5b1cf86d890: Verifying Checksum
+a5b1cf86d890: Download complete
+v1.9.8-beta.0: Pulling from google_containers/cloud-controller-manager-arm64
+45354500ca49: Already exists
+v1.9.9: Pulling from google_containers/cloud-controller-manager-arm64
+ff945632e4ea: Verifying Checksum
+ff945632e4ea: Download complete
+778a4afaeeb0: Already exists
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.9.5
+c1b5f9b89e98: Pulling fs layer
+c1b5f9b89e98: Verifying Checksum
+c1b5f9b89e98: Download complete
+075c583851a8: Pulling fs layer
+45539fc83d82: Pull complete
+34663c5ad1d5: 07f76fb48456: Pull complete
+Pull complete
+0e555e6c19e7: Pull complete
+43ffa9914869: Pull complete
+a5b1cf86d890: Pull complete
+ff945632e4ea: Pull complete
+Digest: sha256:b19b7336ffedb1df1a2d75f4d79be7049def640617463f4cf014c8eb92aaa32b
+c1b5f9b89e98: Pull complete
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.9.6
+Digest: sha256:d9a3041d268237575fb30c038072d68e413fa0a968f72faf8a70513fda434918
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.9.6-beta.0
+Digest: sha256:9efdef72e7ba9ffa9dc248ee7d2d4a5a4da81adeef287e450f8235ccecf77870
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.9.5-beta.0
+Digest: sha256:d28f35b9d4a27c7689932f1fba868e5fbb86afae7b05a9b00d523fc4c7425cfe
+Digest: sha256:2b2fecfb2c5c485e4dc4cbd09110c224b269a7dbd3affc12e675312bb8de5947
+Digest: sha256:4e87e99284e5f0c245b05c2047a346384987310c0a300e2a3bef41c90d60af28
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.9.4
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.9.7
+Digest: sha256:2cca632ea6dacfd28837108099da5b7797366e0a8d2993c1b098bd2bbee83edc
+Digest: sha256:20b4cc4ab63cd297b62cfc46482cea8ba3c09097361092a142bacaeb4cc9c51d
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.9.7-beta.0
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.9.8
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.9.8-beta.0
+075c583851a8: Verifying Checksum
+075c583851a8: Download complete
+v1.9.9-beta.0: Pulling from google_containers/cloud-controller-manager-arm64
+45354500ca49: Already exists
+4340d1be0fa5: Pulling fs layer
+4340d1be0fa5: Verifying Checksum
+4340d1be0fa5: Download complete
+075c583851a8: Pull complete
+Digest: sha256:8855bfa65f37be86428f529fcac6d9af6934640220f3fd3bbf45ec1a3a2cb9b7
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.9.9
+4340d1be0fa5: Pull complete
+Digest: sha256:d3832178529352af6293e597fcd67b76a54c170a6940201c5a438ac284112a24
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-arm64:v1.9.9-beta.0
+v1.10.0: Pulling from google_containers/cloud-controller-manager-ppc64le
+8bcf05d0d38f: Pulling fs layer
+93f8147ca38d: Pulling fs layer
+v1.10.0-alpha.0: Pulling from google_containers/cloud-controller-manager-ppc64le
+99e0fbfdb0a9: Pulling fs layer
+fdfa2a5cb18f: Pulling fs layer
+fdfa2a5cb18f: Waiting
+8bcf05d0d38f: Verifying Checksum
+8bcf05d0d38f: Download complete
+v1.10.0-alpha.1: Pulling from google_containers/cloud-controller-manager-ppc64le
+99e0fbfdb0a9: Pulling fs layer
+fb2e0e5ad1fb: Pulling fs layer
+fb2e0e5ad1fb: Waiting
+99e0fbfdb0a9: Verifying Checksum
+99e0fbfdb0a9: Verifying Checksum
+99e0fbfdb0a9: Download complete
+99e0fbfdb0a9: Download complete
+99e0fbfdb0a9: Pull complete
+99e0fbfdb0a9: Pull complete
+8bcf05d0d38f: Pull complete
+v1.10.0-alpha.2: Pulling from google_containers/cloud-controller-manager-ppc64le
+ed2cbc89fa7d: Pulling fs layer
+dbeb5fb59ee0: Pulling fs layer
+ed2cbc89fa7d: Waiting
+dbeb5fb59ee0: Waiting
+93f8147ca38d: Verifying Checksum
+93f8147ca38d: Download complete
+v1.10.0-alpha.3: Pulling from google_containers/cloud-controller-manager-ppc64le
+ed2cbc89fa7d: Pulling fs layer
+4df31422b50c: Pulling fs layer
+ed2cbc89fa7d: Waiting
+4df31422b50c: Waiting
+fdfa2a5cb18f: Verifying Checksum
+fdfa2a5cb18f: Download complete
+fb2e0e5ad1fb: Verifying Checksum
+fb2e0e5ad1fb: Download complete
+v1.10.0-beta.0: Pulling from google_containers/cloud-controller-manager-ppc64le
+ed2cbc89fa7d: Pulling fs layer
+13b08f1b9a6a: Pulling fs layer
+ed2cbc89fa7d: Waiting
+13b08f1b9a6a: Waiting
+ed2cbc89fa7d: Verifying Checksum
+ed2cbc89fa7d: Verifying Checksum
+ed2cbc89fa7d: Verifying Checksum
+ed2cbc89fa7d: Download complete
+ed2cbc89fa7d: Download complete
+ed2cbc89fa7d: Download complete
+v1.10.0-beta.1: Pulling from google_containers/cloud-controller-manager-ppc64le
+ed2cbc89fa7d: Pulling fs layer
+62d06f2e3251: Pulling fs layer
+62d06f2e3251: Waiting
+ed2cbc89fa7d: Pull complete
+ed2cbc89fa7d: Pull complete
+ed2cbc89fa7d: Pull complete
+ed2cbc89fa7d: Pull complete
+4df31422b50c: Verifying Checksum
+4df31422b50c: Download complete
+v1.10.0-beta.2: Pulling from google_containers/cloud-controller-manager-ppc64le
+8bcf05d0d38f: Already exists
+99f33844a8f6: Pulling fs layer
+99f33844a8f6: Waiting
+fb2e0e5ad1fb: Pull complete
+Digest: sha256:0b3ff0cc04766383246657f6a60c5c34c0b773075d754c8f14dc7d49ad824815
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-ppc64le:v1.10.0-alpha.1
+dbeb5fb59ee0: Verifying Checksum
+dbeb5fb59ee0: Download complete
+v1.10.0-beta.3: Pulling from google_containers/cloud-controller-manager-ppc64le
+8bcf05d0d38f: Already exists
+fdfa2a5cb18f: Pull complete
+25bc933e7754: Pulling fs layer
+25bc933e7754: Waiting
+Digest: sha256:c0365c0d43c99f32fecba2085c3a00caa639cc41e700d7082eee04a20af29592
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-ppc64le:v1.10.0-alpha.0
+13b08f1b9a6a: Verifying Checksum
+13b08f1b9a6a: Download complete
+v1.10.0-beta.4: Pulling from google_containers/cloud-controller-manager-ppc64le
+8bcf05d0d38f: Already exists
+0d20572e4227: Pulling fs layer
+0d20572e4227: Waiting
+93f8147ca38d: dbeb5fb59ee0: Pull complete
+Pull complete
+Digest: sha256:0333fcb35890dd9af4ea16992abc92ea0ba83b7bdf60a04f62c0bace093ba361
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-ppc64le:v1.10.0-alpha.2
+Digest: sha256:fc9d8880607cb31cb073d16bcfc602adae2750ff869c186da3b02112b60acd5b
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-ppc64le:v1.10.0
+62d06f2e3251: Verifying Checksum
+62d06f2e3251: Download complete
+v1.10.0-rc.1: Pulling from google_containers/cloud-controller-manager-ppc64le
+8bcf05d0d38f: Already exists
+e152da2e134e: Pulling fs layer
+e152da2e134e: Waiting
+25bc933e7754: Verifying Checksum
+25bc933e7754: Download complete
+99f33844a8f6: Verifying Checksum
+99f33844a8f6: Download complete
+v1.10.1: Pulling from google_containers/cloud-controller-manager-ppc64le
+b64673170875: Pulling fs layer
+60e00f90ce34: Pulling fs layer
+60e00f90ce34: Waiting
+b64673170875: Verifying Checksum
+b64673170875: Download complete
+0d20572e4227: Verifying Checksum
+0d20572e4227: Download complete
+e152da2e134e: Verifying Checksum
+e152da2e134e: Download complete
+v1.10.1-beta.0: Pulling from google_containers/cloud-controller-manager-ppc64le
+8bcf05d0d38f: Already exists
+v1.10.10: Pulling from google_containers/cloud-controller-manager-ppc64le
+4af4b9131647: Pulling fs layer
+293eb4b7267f: Pulling fs layer
+088ae59ecc1b: Pulling fs layer
+088ae59ecc1b: Waiting
+b64673170875: Pull complete
+13b08f1b9a6a: Pull complete
+Digest: sha256:d584eef168323d27e45f0051ad2b7b4a8d1083d3e9a2f806ec2dd41089572870
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-ppc64le:v1.10.0-beta.0
+4df31422b50c: Pull complete
+Digest: sha256:9b26cded49fb4cbfa54f29174e646ebc8d5b2857e4ddf669831ee00f58fe6f2f
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-ppc64le:v1.10.0-alpha.3
+4af4b9131647: Verifying Checksum
+4af4b9131647: Download complete
+25bc933e7754: Pull complete
+Digest: sha256:e2dbf12258453379a79756f8a2582cd356269a62d4978226b78876d65c51bf81
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-ppc64le:v1.10.0-beta.3
+60e00f90ce34: Verifying Checksum
+60e00f90ce34: Download complete
+v1.10.10-beta.0: Pulling from google_containers/cloud-controller-manager-ppc64le
+4af4b9131647: Pulling fs layer
+b0cf44ada336: Pulling fs layer
+v1.10.11: Pulling from google_containers/cloud-controller-manager-ppc64le
+4af4b9131647: Pulling fs layer
+4e1998f873ef: Pulling fs layer
+4e1998f873ef: Waiting
+v1.10.11-beta.0: Pulling from google_containers/cloud-controller-manager-ppc64le
+4af4b9131647: Pulling fs layer
+34354852e684: Pulling fs layer
+34354852e684: Waiting
+4af4b9131647: 4af4b9131647: Pull complete
+Pull complete
+4af4b9131647: Pull complete
+4af4b9131647: Pull complete
+99f33844a8f6: Pull complete
+Digest: sha256:b1abb37653d30123dc12b7ba1538140220b4bf150bcfa9553570bc14c41c4911
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-ppc64le:v1.10.0-beta.2
+0d20572e4227: Pull complete
+Digest: sha256:96334ec4c74eed0c5fd69a318f9f2ec63a0a6edf04911d1a2b80b18200cd90cc
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-ppc64le:v1.10.0-beta.4
+60e00f90ce34: Pull complete
+Digest: sha256:78267b80134938091001456db16b6de2d1a35bda8a10e8a0c644709221161548
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-ppc64le:v1.10.1
+293eb4b7267f: Verifying Checksum
+293eb4b7267f: Download complete
+e152da2e134e: Pull complete
+62d06f2e3251: Pull complete
+Digest: sha256:1b1255bdd59c61c48c9b9435e4e5093f8b48ada4a22dc24ba30c2a383d0b17e1
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-ppc64le:v1.10.0-rc.1
+Digest: sha256:a89e12874b8b28e86b581e8ef00974a7083554739ba826420c0cb621549ee390
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-ppc64le:v1.10.0-beta.1
+088ae59ecc1b: Verifying Checksum
+088ae59ecc1b: Download complete
+4e1998f873ef: Verifying Checksum
+4e1998f873ef: Download complete
+b0cf44ada336: Verifying Checksum
+b0cf44ada336: Download complete
+34354852e684: Verifying Checksum
+34354852e684: Download complete
+v1.10.12: Pulling from google_containers/cloud-controller-manager-ppc64le
+4af4b9131647: Already exists
+v1.10.12-beta.0: Pulling from google_containers/cloud-controller-manager-ppc64le
+4af4b9131647: Already exists
+v1.10.13-beta.0: Pulling from google_containers/cloud-controller-manager-ppc64le
+v1.10.13: Pulling from google_containers/cloud-controller-manager-ppc64le
+v1.10.14-beta.0: Pulling from google_containers/cloud-controller-manager-ppc64le
+4af4b9131647: Already exists
+735cf6f9ad71: Pulling fs layer
+1580a7fbce05: Pulling fs layer
+49b8ba63924d: Pulling fs layer
+1580a7fbce05: Pulling fs layer
+125a6495769a: Pulling fs layer
+125a6495769a: Waiting
+5d950d22a507: Pulling fs layer
+5d950d22a507: Waiting
+17577d7c18ba: Pulling fs layer
+17577d7c18ba: Waiting
+b0cf44ada336: Pull complete
+Digest: sha256:c6838415530a79af698a0d29145abdf7a1fbe6704427440d99464684a8d1ae39
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-ppc64le:v1.10.10-beta.0
+088ae59ecc1b: Pull complete
+Digest: sha256:54202d4fec19c435f6a03ecbe5b55c44312a89276c2b3d5880a6e87fea8f226b
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-ppc64le:v1.10.1-beta.0
+1580a7fbce05: Verifying Checksum
+1580a7fbce05: Verifying Checksum
+1580a7fbce05: Download complete
+1580a7fbce05: Download complete
+293eb4b7267f: Pull complete
+Digest: sha256:42a846ab1ff26c09bfbfe3602803e40bcf675846e01aeb2262ed9f73e4d245f7
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-ppc64le:v1.10.10
+1580a7fbce05: Pull complete
+1580a7fbce05: Pull complete
+49b8ba63924d: Verifying Checksum
+49b8ba63924d: Download complete
+v1.10.2: Pulling from google_containers/cloud-controller-manager-ppc64le
+b64673170875: Already exists
+v1.10.2-beta.0: Pulling from google_containers/cloud-controller-manager-ppc64le
+125a6495769a: Verifying Checksum
+125a6495769a: Download complete
+b64673170875: Already exists
+0201b51b7377: Pulling fs layer
+0201b51b7377: Waiting
+34354852e684: Pull complete
+Digest: sha256:5c19765b99291bca224c15403bcdc66e34dcd03ffbf20f1e9b45c3629c16fcec
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-ppc64le:v1.10.11-beta.0
+4e1998f873ef: Pull complete
+Digest: sha256:f30148be01863bd01bcab18c211f14949e51dead1fe55377db2160327b15bac7
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-ppc64le:v1.10.11
+c71cb57bc57a: Pulling fs layer
+c71cb57bc57a: Waiting
+735cf6f9ad71: Verifying Checksum
+735cf6f9ad71: Download complete
+v1.10.3: Pulling from google_containers/cloud-controller-manager-ppc64le
+b64673170875: Already exists
+4852ff426b84: Pulling fs layer
+4852ff426b84: Waiting
+5d950d22a507: Verifying Checksum
+5d950d22a507: Download complete
+v1.10.3-beta.0: Pulling from google_containers/cloud-controller-manager-ppc64le
+b64673170875: Already exists
+c71cb57bc57a: Verifying Checksum
+c71cb57bc57a: Download complete
+17577d7c18ba: Verifying Checksum
+17577d7c18ba: Download complete
+v1.10.4: Pulling from google_containers/cloud-controller-manager-ppc64le
+0201b51b7377: Verifying Checksum
+0201b51b7377: Download complete
+4852ff426b84: Verifying Checksum
+4852ff426b84: Download complete
+e7277075c9a8: Pulling fs layer
+833e923c6774: Pulling fs layer
+e7277075c9a8: Verifying Checksum
+e7277075c9a8: Download complete
+f66b067fc47f: Pulling fs layer
+833e923c6774: Verifying Checksum
+833e923c6774: Download complete
+f66b067fc47f: Verifying Checksum
+f66b067fc47f: Download complete
+125a6495769a: Pull complete
+49b8ba63924d: Pull complete
+735cf6f9ad71: Pull complete
+e7277075c9a8: Pull complete
+5d950d22a507: Pull complete
+17577d7c18ba: Pull complete
+0201b51b7377: Pull complete
+4852ff426b84: Pull complete
+c71cb57bc57a: Pull complete
+f66b067fc47f: Pull complete
+Digest: sha256:233707871c678c12c235a6a044c9fc011e7eebb4db09ef7a3e0905395a5858af
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-ppc64le:v1.10.13
+Digest: sha256:80f40a5ffaaff1bdb1d3fb0b1548583a416f804fd1aa77f25717999bab15c72b
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-ppc64le:v1.10.2-beta.0
+Digest: sha256:960dcaa1cce2d3ca975a1b8472243f7119f5ae07397737f11f6f5d81c50a35b5
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-ppc64le:v1.10.12
+Digest: sha256:0e7fd332b7322b9c06ef02ee4c9541aca57e7281f124855aeb947addf0af2276
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-ppc64le:v1.10.12-beta.0
+Digest: sha256:1b181e334095a4341539006ea7372cc79661ee3492d07256f2ca85a82d5dc87e
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-ppc64le:v1.10.14-beta.0
+Digest: sha256:8962a18f74f60c212a090f296e9e062c6b308c742b24daf70f9635493780d719
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-ppc64le:v1.10.13-beta.0
+Digest: sha256:6f83ddd39c908c8f67b110d465ea90458926d355a8a67b1a9e07ac4e967f9f8c
+Digest: sha256:7ddbc8cfd04fd18c41b8288766843d7045fd3e24cc0c638730935514da78afa8
+Digest: sha256:24bed5b594ecd8294b8dc4f1cda1cc2f6f4b9b8d59d064a44f91657d38cc8713
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-ppc64le:v1.10.2
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-ppc64le:v1.10.3-beta.0
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-ppc64le:v1.10.3
+833e923c6774: Pull complete
+Digest: sha256:2b10d6b4b952e9ba1f5e8a80a29222bada4a9e4ae14c8a6b806d53220ee3a06f
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-ppc64le:v1.10.4
+v1.10.4-beta.0: Pulling from google_containers/cloud-controller-manager-ppc64le
+b64673170875: Already exists
+d41a62b8b9bb: Pulling fs layer
+v1.10.5: Pulling from google_containers/cloud-controller-manager-ppc64le
+e7277075c9a8: Already exists
+ecf0ffcfb19e: Pulling fs layer
+v1.10.5-beta.0: Pulling from google_containers/cloud-controller-manager-ppc64le
+e7277075c9a8: Already exists
+53c49fb182ef: Pulling fs layer
+d41a62b8b9bb: Verifying Checksum
+d41a62b8b9bb: Download complete
+v1.10.6: Pulling from google_containers/cloud-controller-manager-ppc64le
+3b78d3ce80db: Pulling fs layer
+9b3ef2dc3287: Pulling fs layer
+9b3ef2dc3287: Waiting
+v1.10.6-beta.0: Pulling from google_containers/cloud-controller-manager-ppc64le
+e7277075c9a8: Already exists
+42f91afc1b29: Pulling fs layer
+42f91afc1b29: Waiting
+ecf0ffcfb19e: Verifying Checksum
+ecf0ffcfb19e: Download complete
+53c49fb182ef: Verifying Checksum
+53c49fb182ef: Download complete
+3b78d3ce80db: Verifying Checksum
+3b78d3ce80db: Download complete
+v1.10.7: Pulling from google_containers/cloud-controller-manager-ppc64le
+cc5c16930f55: Pulling fs layer
+37236c25d535: Pulling fs layer
+37236c25d535: Waiting
+3b78d3ce80db: Pull complete
+cc5c16930f55: Verifying Checksum
+cc5c16930f55: Download complete
+d41a62b8b9bb: Pull complete
+Digest: sha256:cfacb97245c424172e8444966ce7650e219566190830df1afeca1c8d5849ff81
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-ppc64le:v1.10.4-beta.0
+9b3ef2dc3287: Verifying Checksum
+9b3ef2dc3287: Download complete
+42f91afc1b29: Verifying Checksum
+42f91afc1b29: Download complete
+v1.10.7-beta.0: Pulling from google_containers/cloud-controller-manager-ppc64le
+3b78d3ce80db: Already exists
+48c098ae02a7: Pulling fs layer
+cc5c16930f55: Pull complete
+53c49fb182ef: Pull complete
+Digest: sha256:8401ff8000ea60b996faf6d5f1ddbeefb052372000d19fddbd128e7bb6ae1278
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-ppc64le:v1.10.5-beta.0
+v1.10.8: Pulling from google_containers/cloud-controller-manager-ppc64le
+cc5c16930f55: Already exists
+7a801efc190e: Pulling fs layer
+v1.10.8-beta.0: Pulling from google_containers/cloud-controller-manager-ppc64le
+cc5c16930f55: Already exists
+4edd7b5cb818: Pulling fs layer
+4edd7b5cb818: Waiting
+v1.10.9: Pulling from google_containers/cloud-controller-manager-ppc64le
+4af4b9131647: Already exists
+eab844f6fb2d: Pulling fs layer
+eab844f6fb2d: Waiting
+ecf0ffcfb19e: Pull complete
+Digest: sha256:99cba14059a034286bf9ff2abef93b0ef1f71c84549acb34221667d967aff958
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-ppc64le:v1.10.5
+37236c25d535: Verifying Checksum
+37236c25d535: Download complete
+v1.10.9-beta.0: Pulling from google_containers/cloud-controller-manager-ppc64le
+cc5c16930f55: Already exists
+93d8f491f1a5: Pulling fs layer
+93d8f491f1a5: Waiting
+48c098ae02a7: Verifying Checksum
+48c098ae02a7: Download complete
+7a801efc190e: Verifying Checksum
+7a801efc190e: Download complete
+v1.11.0: Pulling from google_containers/cloud-controller-manager-ppc64le
+e7277075c9a8: Already exists
+v1.11.0-alpha.0: Pulling from google_containers/cloud-controller-manager-ppc64le
+ed2cbc89fa7d: Already exists
+63f074ad5ba9: Pulling fs layer
+63f074ad5ba9: Waiting
+4edd7b5cb818: Verifying Checksum
+4edd7b5cb818: Download complete
+93d8f491f1a5: Verifying Checksum
+93d8f491f1a5: Download complete
+eab844f6fb2d: Verifying Checksum
+eab844f6fb2d: Download complete
+bced5af50354: Pulling fs layer
+63f074ad5ba9: Verifying Checksum
+63f074ad5ba9: Download complete
+bced5af50354: Verifying Checksum
+bced5af50354: Download complete
+9b3ef2dc3287: Pull complete
+42f91afc1b29: Pull complete
+48c098ae02a7: Pull complete
+7a801efc190e: 37236c25d535: Digest: sha256:b3e332bc0075673353eca08ebd2e484984b8db241e930679fda18d11f91b0baa
+Pull complete
+Pull complete
+93d8f491f1a5: Pull complete
+63f074ad5ba9: Pull complete
+eab844f6fb2d: 4edd7b5cb818: Pull complete
+Pull complete
+bced5af50354: Pull complete
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-ppc64le:v1.10.6
+Digest: sha256:8181fc5768bc09d817855d4958bc7d783ba80323bcd5182746e38be15302d694
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-ppc64le:v1.10.6-beta.0
+Digest: sha256:e41e80592b16b404e3ef7efa5aeb14cdf5fd81f8693c8d47e4ff649d573db172
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-ppc64le:v1.11.0
+Digest: sha256:dd34823159279e551758070a4daad097e372c6aed9f0887eaface80f0d1e94ce
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-ppc64le:v1.10.9-beta.0
+Digest: sha256:89c2ac1b705b42e8b622cb9285aaa930dd50ebb140fd9d3fa2952f6aac224caf
+Digest: sha256:c824b01cb3870e5f0350955621bb5c99b67bfc4174babf2a0f35597bef7dae2a
+Digest: sha256:352ade255ce800661d4da8a4ccd5e39f5b95ad532ac7bbe3293bf4ed65a4dbeb
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-ppc64le:v1.10.8
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-ppc64le:v1.10.7-beta.0
+Digest: sha256:bff17d7c6184e5171243d400c77f9aeee939f5ddc736130593737783b6c95208
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-ppc64le:v1.10.7
+Digest: sha256:dd0389db2d74bc3605aadfd3c4e609dec340b96c46f4c054bc26ff32621d95b0
+Digest: sha256:5b77005ca7c8a50c3475b65e9bb3de6bd84fd134be882862ce548f519bd76063
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-ppc64le:v1.10.8-beta.0
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-ppc64le:v1.10.9
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-ppc64le:v1.11.0-alpha.0
+v1.11.0-alpha.1: Pulling from google_containers/cloud-controller-manager-ppc64le
+b64673170875: Already exists
+63a003474f18: Pulling fs layer
+v1.11.0-alpha.2: Pulling from google_containers/cloud-controller-manager-ppc64le
+b64673170875: Already exists
+51f61d65e151: Pulling fs layer
+v1.11.0-beta.0: Pulling from google_containers/cloud-controller-manager-ppc64le
+b64673170875: Already exists
+79e6ceb2f984: Pulling fs layer
+v1.11.0-beta.1: Pulling from google_containers/cloud-controller-manager-ppc64le
+e7277075c9a8: Already exists
+3c2bffa29270: Pulling fs layer
+3c2bffa29270: Waiting
+v1.11.0-beta.2: Pulling from google_containers/cloud-controller-manager-ppc64le
+e7277075c9a8: Already exists
+d1fe52385864: Pulling fs layer
+d1fe52385864: Waiting
+79e6ceb2f984: Verifying Checksum
+79e6ceb2f984: Download complete
+51f61d65e151: Verifying Checksum
+51f61d65e151: Download complete
+v1.11.0-rc.1: Pulling from google_containers/cloud-controller-manager-ppc64le
+e7277075c9a8: Already exists
+63a003474f18: Verifying Checksum
+63a003474f18: Download complete
+v1.11.0-rc.2: Pulling from google_containers/cloud-controller-manager-ppc64le
+v1.11.0-rc.3: Pulling from google_containers/cloud-controller-manager-ppc64le
+v1.11.1: Pulling from google_containers/cloud-controller-manager-ppc64le
+3b78d3ce80db: Already exists
+e7277075c9a8: Already exists
+v1.11.1-beta.0: Pulling from google_containers/cloud-controller-manager-ppc64le
+d1fe52385864: Verifying Checksum
+d1fe52385864: Download complete
+3c2bffa29270: Verifying Checksum
+3c2bffa29270: Download complete
+30a35bda8fc8: Pulling fs layer
+e7277075c9a8: Already exists
+30a35bda8fc8: Verifying Checksum
+30a35bda8fc8: Download complete
+e7277075c9a8: Already exists
+53f725c54abf: Pulling fs layer
+53f725c54abf: Verifying Checksum
+53f725c54abf: Download complete
+63a003474f18: 51f61d65e151: Pull complete
+Pull complete
+79e6ceb2f984: Pull complete
+3c2bffa29270: Pull complete
+d1fe52385864: Pull complete
+30a35bda8fc8: Pull complete
+007635665c30: Pulling fs layer
+4cc048ade287: Pulling fs layer
+53f725c54abf: Pull complete
+33831a13cf73: Pulling fs layer
+Digest: sha256:5f90411e169a4049fdfbd9409eac29a77eab0d1df99879d7efb495db8103be91
+Digest: sha256:ee6fa302d636f07d98e88891781c90a6a7ffca7f3e21899d105d92ca31ad787c
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-ppc64le:v1.11.0-alpha.1
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-ppc64le:v1.11.0-alpha.2
+Digest: sha256:3efa2c0d00ce7f1ac857241095fe2c9814ace50e74e3f59ba7e06ddb2cc29529
+Digest: sha256:13e90b89e7b8856b9366f75f76ea3587f128eace108c30afcd684878b75a4714
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-ppc64le:v1.11.0-beta.1
+Digest: sha256:5944059991c22123203659fe7024574a65f392d9985ebcba1403f4b63d3b9d62
+Digest: sha256:0931975bc9901c287d01bd67cab59d17ff254877f849e607913c4888937c35aa
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-ppc64le:v1.11.0-rc.1
+Digest: sha256:4f41f587c269440ff3f204c8284f236f3f5fa72771c3733bbfb9cc6a3f717d50
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-ppc64le:v1.11.0-beta.2
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-ppc64le:v1.11.0-beta.0
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-ppc64le:v1.11.0-rc.2
+4cc048ade287: Verifying Checksum
+4cc048ade287: Download complete
+33831a13cf73: Verifying Checksum
+33831a13cf73: Download complete
+007635665c30: Verifying Checksum
+007635665c30: Download complete
+007635665c30: Pull complete
+4cc048ade287: Pull complete
+33831a13cf73: Pull complete
+Digest: sha256:7cf18aa75acf60ff598b5c0101fa0f4cbc3667f32be51ab81ea6114968fe78df
+Digest: sha256:ac62f40a20904b7c9c7941b5af7e4eae5f6b89874c80f80f1737853246336a4e
+Digest: sha256:831f4aecc305219c2faeb997fe1cb5509fcaae5598d858833e28bd080ce31fad
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-ppc64le:v1.11.0-rc.3
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-ppc64le:v1.11.1-beta.0
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-ppc64le:v1.11.1
+v1.11.2: Pulling from google_containers/cloud-controller-manager-ppc64le
+cc5c16930f55: Already exists
+3342baba8f2c: Pulling fs layer
+3342baba8f2c: Download complete
+3342baba8f2c: Pull complete
+Digest: sha256:5c68e537c5ce65a22b3c5798022f5d425275584975839a0deb544363906966df
+Status: Downloaded newer image for gcr.io/google_containers/cloud-controller-manager-ppc64le:v1.11.2
