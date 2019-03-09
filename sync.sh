@@ -91,7 +91,7 @@ auth_sdk(){
 
 #  GCR_IMAGE_NAME  tag  REPO_IMAGE_NAME
 image_tag(){
-    docker pull $1:$2 >> pull.log
+    docker pull $1:$2 
     docker tag $1:$2 $3:$2
     docker rmi $1:$2
 }
@@ -102,7 +102,7 @@ img_clean(){
     shift 3
     while read img tag null;do
         docker push $img:$tag;
-        docker rmi $img:$tag > pull.log;
+        docker rmi $img:$tag;
         [ "$tag" != latest ] && echo $domain/$namespace/$image_name:$tag > $domain/$namespace/$image_name/$tag ||
             $@ $domain/$namespace/$image_name > $domain/$namespace/$image_name/$tag
         git_commit
@@ -174,6 +174,7 @@ image_pull(){
         [ ! -d "$domain/$namespace/$image_name" ] && mkdir -p "$domain/$namespace/$image_name"
         [ -f "$domain/$namespace/$image_name"/latest ] && mv $domain/$namespace/$image_name/latest{,.old}
         while read tag;do
+            echo "$domain/$namespace/$image_name/$tag"
         #处理latest标签
             [[ "$tag" == latest && -f "$domain/$namespace/$image_name"/latest.old ]] && {
                 $@::latest_digest $SYNC_IMAGE_NAME > $domain/$namespace/$image_name/latest
