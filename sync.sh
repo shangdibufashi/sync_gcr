@@ -93,7 +93,7 @@ auth_sdk(){
 image_tag(){
     docker pull $1:$2 >> pull.log
     docker tag $1:$2 $3:$2
-    docker rmi $1:$2 > pull.log
+    docker rmi $1:$2
 }
 
 img_clean(){
@@ -101,8 +101,8 @@ img_clean(){
     local Prefix=$domain$interval$namespace$interval
     shift 3
     while read img tag null;do
-        docker push $img:$tag > pull.log;
-        docker rmi $img:$tag;
+        docker push $img:$tag;
+        docker rmi $img:$tag > pull.log;
         [ "$tag" != latest ] && echo $domain/$namespace/$image_name:$tag > $domain/$namespace/$image_name/$tag ||
             $@ $domain/$namespace/$image_name > $domain/$namespace/$image_name/$tag
         git_commit
