@@ -24,14 +24,15 @@ image_prepare(){
 	img_name=$(echo "$repo" | sed 's/\//./g' )
 	target="$MY_REPO/$img_name"
 	exists=$( hub_tag_exist "$img_name" "$tag" )
-	echo "$repo => $img_name $tag $exists"
+	# echo "$repo => $img_name $tag $exists"
+	DATE=`date '+%Y-%m-%d %H:%M:%S'`
 	if [ null == "$exists" ]; then
-		echo "$repo:$tag => $target:$tag"
+		echo "$DATE $repo:$tag => $target:$tag"
 		image_pull "$repo:$tag" "$target:$tag"
 	else
-		echo "ignored [$exists] $1"
+		echo "$DATE ignored [$exists] $1"
 	fi
-	echo "cache/${MY_REPO}.$img_name.$tag" > "cache/${MY_REPO}.$img_name.$tag"
+	echo "cache/${MY_REPO}.$img_name.$tag" > "$DATE cache/${MY_REPO}.$img_name.$tag"
 }
 
 main(){
