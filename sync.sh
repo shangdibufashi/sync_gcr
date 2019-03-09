@@ -237,6 +237,13 @@ main(){
     [ -z "$start_time" ] && start_time=$(date +%s)
     git_init
     process_images
+    COMMIT_FILES_COUNT=$(git status -s|wc -l)
+    TODAY=$(date +%F)
+    if [ $COMMIT_FILES_COUNT -ne 0 ];then
+        git add -A
+        git commit -m "Synchronizing completion at $TODAY"
+        git push -u origin develop
+    fi
     # install_sdk
     # auth_sdk
     Multi_process_init $(( max_process * 4 ))
