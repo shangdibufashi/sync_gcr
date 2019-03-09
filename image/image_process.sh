@@ -27,10 +27,10 @@ image_prepare(){
 	# echo "$repo => $img_name $tag $exists"
 	DATE=`date '+%Y-%m-%d %H:%M:%S'`
 	if [ null == "$exists" ]; then
-		echo "$DATE $repo:$tag => $target:$tag"
+		echo "$DATE $2 $repo:$tag => $target:$tag"
 		image_pull "$repo:$tag" "$target:$tag"
 	else
-		echo "$DATE ignored [$exists] $1"
+		echo "$DATE $2 ignored [$exists] $1"
 	fi
 	echo "cache/${MY_REPO}.$img_name.$tag" > "$DATE cache/${MY_REPO}.$img_name.$tag"
 }
@@ -41,8 +41,11 @@ main(){
 	# pedingList=(`xargs -n1 < images`)
 	pedingList=(`cat images  | sort -r -u| xargs -n1`) # desc order
 	echo "pedingList COUNT: ${#pedingList[@]}"
+	TOTAL=${#pedingList[@]}
+	N=1
 	for repo in ${pedingList[@]};do
-	    image_prepare $repo
+		N=$((N+1))
+	  image_prepare $repo "$N/$TOTAL"
 	done
 }
 
