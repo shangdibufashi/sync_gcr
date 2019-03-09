@@ -91,7 +91,7 @@ auth_sdk(){
 
 #  GCR_IMAGE_NAME  tag  REPO_IMAGE_NAME
 image_tag(){
-    docker pull $1:$2 >> pull.log
+    docker pull $1:$2 
     docker tag $1:$2 $3:$2
     docker rmi $1:$2
 }
@@ -174,6 +174,7 @@ image_pull(){
         [ ! -d "$domain/$namespace/$image_name" ] && mkdir -p "$domain/$namespace/$image_name"
         [ -f "$domain/$namespace/$image_name"/latest ] && mv $domain/$namespace/$image_name/latest{,.old}
         while read tag;do
+            echo "$domain/$namespace/$image_name/$tag"
         #处理latest标签
             [[ "$tag" == latest && -f "$domain/$namespace/$image_name"/latest.old ]] && {
                 $@::latest_digest $SYNC_IMAGE_NAME > $domain/$namespace/$image_name/latest
@@ -236,7 +237,14 @@ process_images(){
 main(){
     [ -z "$start_time" ] && start_time=$(date +%s)
     git_init
-    process_images
+    #process_images
+    COMMIT_FILES_COUNT=$(git status -s|wc -l)
+    TODAY=$(date +%F)
+    if [ $COMMIT_FILES_COUNT -ne 0 ];then
+        git add -A
+        git commit -m "Synchronizing completion at $TODAY"
+        git push -u origin develop
+    fi
     # install_sdk
     # auth_sdk
     Multi_process_init $(( max_process * 4 ))
