@@ -38,7 +38,7 @@ main(){
 	pwd
 	ls -al
 	# pedingList=(`xargs -n1 < images`)
-	pedingList=(`cat image/images  | sort -r -u| xargs -n1`) # desc order
+	pedingList=(`cat images  | sort -r -u| xargs -n1`) # desc order
 	echo "pedingList COUNT: ${#pedingList[@]}"
 	for repo in ${pedingList[@]};do
 	    image_prepare $repo
