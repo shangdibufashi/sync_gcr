@@ -654,6 +654,8 @@ quay.io/external_storage/nfs-client-provisioner:v3.1.0-k8s1.11
 quay.io/honestbee/locust:0.7.5
 quay.io/jetstack/cert-manager-controller:v0.6.2
 quay.io/jetstack/cert-manager-webhook:v0.6.2
+quay.io/jetstack/cert-manager-controller:v0.5.2
+quay.io/jetstack/cert-manager-webhook:v0.5.2
 quay.io/kubernetes_incubator/nfs-provisioner:v1.0.9
 quay.io/monax/hoard:3.0.1
 quay.io/munnerz/apiextensions-ca-helper:v0.1.0
