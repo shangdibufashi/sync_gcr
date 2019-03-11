@@ -237,7 +237,7 @@ process_images(){
 main(){
     [ -z "$start_time" ] && start_time=$(date +%s)
     git_init
-    #process_images
+    process_images
     COMMIT_FILES_COUNT=$(git status -s|wc -l)
     TODAY=$(date +%F)
     if [ $COMMIT_FILES_COUNT -ne 0 ];then
