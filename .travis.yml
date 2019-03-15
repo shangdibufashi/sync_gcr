@@ -9,6 +9,7 @@ addons:
 branches:
   only:
   - master
+  - develop
 install:
 - git remote -v
 script:
