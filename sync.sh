@@ -229,15 +229,6 @@ sync_domain_repo(){
 process_images(){
     # ./image/image_fetch.sh
     ./image/image_process.sh
-    git add -A
-    git commit -m "Synchronizing image"
-    git push -u origin develop
-}
-
-main(){
-    [ -z "$start_time" ] && start_time=$(date +%s)
-    git_init
-    process_images
     COMMIT_FILES_COUNT=$(git status -s|wc -l)
     TODAY=$(date +%F)
     if [ $COMMIT_FILES_COUNT -ne 0 ];then
@@ -245,6 +236,12 @@ main(){
         git commit -m "Synchronizing completion at $TODAY"
         git push -u origin develop
     fi
+}
+
+main(){
+    [ -z "$start_time" ] && start_time=$(date +%s)
+    git_init
+    process_images
     # install_sdk
     # auth_sdk
     Multi_process_init $(( max_process * 4 ))
