@@ -1,3 +1,10 @@
+
+
+
+
+quay.io/kubernetes-ingress-controller/custom-error-pages-amd64:0.3
+quay.io/kubernetes-ingress-controller/nginx-ingress-controller:0.24.0
+
 docker.bintray.io/elasticsearch/elasticsearch:6.1.1
 docker.bintray.io/jfrog/distribution-distribution:1.0.0
 docker.bintray.io/jfrog/distribution-distributor:1.0.0
