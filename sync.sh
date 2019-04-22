@@ -227,7 +227,7 @@ sync_domain_repo(){
 }
 
 process_images(){
-    # ./image/image_fetch.sh
+    ./image/image_fetch.sh
     ./image/image_process.sh
     COMMIT_FILES_COUNT=$(git status -s|wc -l)
     TODAY=$(date +%F)
