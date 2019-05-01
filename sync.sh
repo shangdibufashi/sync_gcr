@@ -228,7 +228,7 @@ sync_domain_repo(){
 
 process_images(){
     ./image/image_fetch.sh
-    ./image/image_process.sh
+    git status -s
     COMMIT_FILES_COUNT=$(git status -s|wc -l)
     TODAY=$(date +%F)
     if [ $COMMIT_FILES_COUNT -ne 0 ];then
@@ -236,6 +236,7 @@ process_images(){
         git commit -m "Synchronizing completion at $TODAY"
         git push -u origin develop
     fi
+    ./image/image_process.sh
 }
 
 main(){
