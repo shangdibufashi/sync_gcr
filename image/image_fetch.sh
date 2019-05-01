@@ -13,7 +13,7 @@ find ./charts/ -name '*.yaml'  | \
 	sort | \
 	uniq | \
 	awk '{print $2":"$4}' | \
-	egrep  '\d+$' >> images
+	egrep  -v 'IfNotPresent' >> images
 
 echo 'elastic.co'
 curl 'https://www.docker.elastic.co/' | \
