@@ -1,7 +1,7 @@
 #!/bin/bash
 cd `dirname $0 && pwd`
 echo 'helm/charts'
-[ ! -d './charts' ] && git clone git@github.com:helm/charts.git
+[ ! -d './charts' ] && echo 'git clone git@github.com:helm/charts.git' && git clone git@github.com:helm/charts.git
 ls -al
 find ./charts/ -name '*.yaml'  | \
 	xargs -n1 egrep -v '^\s+#|^\s*-' | \
