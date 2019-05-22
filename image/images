@@ -845,6 +845,7 @@ k8s.gcr.io/cluster-autoscaler:v0.6.1
 k8s.gcr.io/cluster-autoscaler:v1.13.1
 k8s.gcr.io/defaultbackend:1.0
 k8s.gcr.io/defaultbackend:1.4
+k8s.gcr.io/defaultbackend-amd64:1.5
 k8s.gcr.io/etcd-amd64:2.2.5
 k8s.gcr.io/etcd-amd64:2.3.7
 k8s.gcr.io/heapster:v1.5.2
@@ -902,6 +903,7 @@ quay.io/munnerz/apiextensions-ca-helper:v0.1.0
 quay.io/pires/docker-elasticsearch-curator:5.5.4
 quay.io/prometheus/alertmanager:v0.16.1
 quay.io/prometheus/alertmanager:v0.16.2
+quay.io/prometheus/alertmanager:v0.17.0
 quay.io/prometheus/haproxy-exporter:v0.10.0
 quay.io/prometheus/haproxy-exporter:v0.9.0
 quay.io/prometheus/node-exporter:v0.17.0
