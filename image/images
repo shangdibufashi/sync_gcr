@@ -880,6 +880,7 @@ gcr.io/heptio-images/velero:v0.11.0
 gcr.io/heptio-images/velero:v1.0.0
 gcr.io/kubernetes-helm/tiller:v2.8.1
 gcr.io/spinnaker-marketplace/halyard:1.16.0
+gcr.io/spinnaker-marketplace/halyard:1.20.2
 k8s.gcr.io/addon-resizer:1.7
 k8s.gcr.io/cluster-autoscaler:v0.6.1
 k8s.gcr.io/cluster-autoscaler:v1.13.1
