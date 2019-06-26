@@ -33,6 +33,7 @@ docker.elastic.co/apm/apm-server:7.0.0-rc2
 docker.elastic.co/apm/apm-server:7.0.1
 docker.elastic.co/apm/apm-server:7.1.0
 docker.elastic.co/apm/apm-server:7.1.1
+docker.elastic.co/apm/apm-server:7.2.0
 docker.elastic.co/apm/apm-server-oss:6.3.0
 docker.elastic.co/apm/apm-server-oss:6.3.1
 docker.elastic.co/apm/apm-server-oss:6.3.2
@@ -62,6 +63,8 @@ docker.elastic.co/apm/apm-server-oss:7.0.0-rc2
 docker.elastic.co/apm/apm-server-oss:7.0.1
 docker.elastic.co/apm/apm-server-oss:7.1.0
 docker.elastic.co/apm/apm-server-oss:7.1.1
+docker.elastic.co/apm/apm-server-oss:7.2.0
+docker.elastic.co/app-search/app-search:7.2.0
 docker.elastic.co/beats/auditbeat:6.0.1
 docker.elastic.co/beats/auditbeat:6.1.4
 docker.elastic.co/beats/auditbeat:6.2.4
@@ -92,6 +95,7 @@ docker.elastic.co/beats/auditbeat:7.0.0-rc2
 docker.elastic.co/beats/auditbeat:7.0.1
 docker.elastic.co/beats/auditbeat:7.1.0
 docker.elastic.co/beats/auditbeat:7.1.1
+docker.elastic.co/beats/auditbeat:7.2.0
 docker.elastic.co/beats/auditbeat-oss:6.4.0
 docker.elastic.co/beats/auditbeat-oss:6.4.1
 docker.elastic.co/beats/auditbeat-oss:6.4.2
@@ -118,6 +122,7 @@ docker.elastic.co/beats/auditbeat-oss:7.0.0-rc2
 docker.elastic.co/beats/auditbeat-oss:7.0.1
 docker.elastic.co/beats/auditbeat-oss:7.1.0
 docker.elastic.co/beats/auditbeat-oss:7.1.1
+docker.elastic.co/beats/auditbeat-oss:7.2.0
 docker.elastic.co/beats/filebeat:5.2.0
 docker.elastic.co/beats/filebeat:5.2.1
 docker.elastic.co/beats/filebeat:5.3.0
@@ -179,6 +184,7 @@ docker.elastic.co/beats/filebeat:7.0.0-rc2
 docker.elastic.co/beats/filebeat:7.0.1
 docker.elastic.co/beats/filebeat:7.1.0
 docker.elastic.co/beats/filebeat:7.1.1
+docker.elastic.co/beats/filebeat:7.2.0
 docker.elastic.co/beats/filebeat-oss:6.4.0
 docker.elastic.co/beats/filebeat-oss:6.4.1
 docker.elastic.co/beats/filebeat-oss:6.4.2
@@ -205,6 +211,7 @@ docker.elastic.co/beats/filebeat-oss:7.0.0-rc2
 docker.elastic.co/beats/filebeat-oss:7.0.1
 docker.elastic.co/beats/filebeat-oss:7.1.0
 docker.elastic.co/beats/filebeat-oss:7.1.1
+docker.elastic.co/beats/filebeat-oss:7.2.0
 docker.elastic.co/beats/heartbeat:5.2.0
 docker.elastic.co/beats/heartbeat:5.2.1
 docker.elastic.co/beats/heartbeat:5.3.0
@@ -266,6 +273,7 @@ docker.elastic.co/beats/heartbeat:7.0.0-rc2
 docker.elastic.co/beats/heartbeat:7.0.1
 docker.elastic.co/beats/heartbeat:7.1.0
 docker.elastic.co/beats/heartbeat:7.1.1
+docker.elastic.co/beats/heartbeat:7.2.0
 docker.elastic.co/beats/heartbeat-oss:6.4.0
 docker.elastic.co/beats/heartbeat-oss:6.4.1
 docker.elastic.co/beats/heartbeat-oss:6.4.2
@@ -292,6 +300,7 @@ docker.elastic.co/beats/heartbeat-oss:7.0.0-rc2
 docker.elastic.co/beats/heartbeat-oss:7.0.1
 docker.elastic.co/beats/heartbeat-oss:7.1.0
 docker.elastic.co/beats/heartbeat-oss:7.1.1
+docker.elastic.co/beats/heartbeat-oss:7.2.0
 docker.elastic.co/beats/journalbeat:6.6.0
 docker.elastic.co/beats/journalbeat:6.6.1
 docker.elastic.co/beats/journalbeat:6.6.2
@@ -309,6 +318,7 @@ docker.elastic.co/beats/journalbeat:7.0.0-rc2
 docker.elastic.co/beats/journalbeat:7.0.1
 docker.elastic.co/beats/journalbeat:7.1.0
 docker.elastic.co/beats/journalbeat:7.1.1
+docker.elastic.co/beats/journalbeat:7.2.0
 docker.elastic.co/beats/journalbeat-oss:6.6.0
 docker.elastic.co/beats/journalbeat-oss:6.6.1
 docker.elastic.co/beats/journalbeat-oss:6.6.2
@@ -326,6 +336,7 @@ docker.elastic.co/beats/journalbeat-oss:7.0.0-rc2
 docker.elastic.co/beats/journalbeat-oss:7.0.1
 docker.elastic.co/beats/journalbeat-oss:7.1.0
 docker.elastic.co/beats/journalbeat-oss:7.1.1
+docker.elastic.co/beats/journalbeat-oss:7.2.0
 docker.elastic.co/beats/metricbeat:5.2.0
 docker.elastic.co/beats/metricbeat:5.2.1
 docker.elastic.co/beats/metricbeat:5.3.0
@@ -387,6 +398,7 @@ docker.elastic.co/beats/metricbeat:7.0.0-rc2
 docker.elastic.co/beats/metricbeat:7.0.1
 docker.elastic.co/beats/metricbeat:7.1.0
 docker.elastic.co/beats/metricbeat:7.1.1
+docker.elastic.co/beats/metricbeat:7.2.0
 docker.elastic.co/beats/metricbeat-oss:6.4.0
 docker.elastic.co/beats/metricbeat-oss:6.4.1
 docker.elastic.co/beats/metricbeat-oss:6.4.2
@@ -413,6 +425,7 @@ docker.elastic.co/beats/metricbeat-oss:7.0.0-rc2
 docker.elastic.co/beats/metricbeat-oss:7.0.1
 docker.elastic.co/beats/metricbeat-oss:7.1.0
 docker.elastic.co/beats/metricbeat-oss:7.1.1
+docker.elastic.co/beats/metricbeat-oss:7.2.0
 docker.elastic.co/beats/packetbeat:5.2.0
 docker.elastic.co/beats/packetbeat:5.2.1
 docker.elastic.co/beats/packetbeat:5.3.0
@@ -474,6 +487,7 @@ docker.elastic.co/beats/packetbeat:7.0.0-rc2
 docker.elastic.co/beats/packetbeat:7.0.1
 docker.elastic.co/beats/packetbeat:7.1.0
 docker.elastic.co/beats/packetbeat:7.1.1
+docker.elastic.co/beats/packetbeat:7.2.0
 docker.elastic.co/beats/packetbeat-oss:6.4.0
 docker.elastic.co/beats/packetbeat-oss:6.4.1
 docker.elastic.co/beats/packetbeat-oss:6.4.2
@@ -500,6 +514,7 @@ docker.elastic.co/beats/packetbeat-oss:7.0.0-rc2
 docker.elastic.co/beats/packetbeat-oss:7.0.1
 docker.elastic.co/beats/packetbeat-oss:7.1.0
 docker.elastic.co/beats/packetbeat-oss:7.1.1
+docker.elastic.co/beats/packetbeat-oss:7.2.0
 docker.elastic.co/elasticsearch/elasticsearch:5.2.0
 docker.elastic.co/elasticsearch/elasticsearch:5.2.1
 docker.elastic.co/elasticsearch/elasticsearch:5.3.0
@@ -563,6 +578,7 @@ docker.elastic.co/elasticsearch/elasticsearch:7.0.0-rc2
 docker.elastic.co/elasticsearch/elasticsearch:7.0.1
 docker.elastic.co/elasticsearch/elasticsearch:7.1.0
 docker.elastic.co/elasticsearch/elasticsearch:7.1.1
+docker.elastic.co/elasticsearch/elasticsearch:7.2.0
 docker.elastic.co/elasticsearch/elasticsearch-basic:6.0.0
 docker.elastic.co/elasticsearch/elasticsearch-basic:6.0.1
 docker.elastic.co/elasticsearch/elasticsearch-basic:6.1.0
@@ -616,6 +632,7 @@ docker.elastic.co/elasticsearch/elasticsearch-oss:7.0.0-rc2
 docker.elastic.co/elasticsearch/elasticsearch-oss:7.0.1
 docker.elastic.co/elasticsearch/elasticsearch-oss:7.1.0
 docker.elastic.co/elasticsearch/elasticsearch-oss:7.1.1
+docker.elastic.co/elasticsearch/elasticsearch-oss:7.2.0
 docker.elastic.co/elasticsearch/elasticsearch-platinum:6.0.0
 docker.elastic.co/elasticsearch/elasticsearch-platinum:6.0.1
 docker.elastic.co/elasticsearch/elasticsearch-platinum:6.1.0
@@ -691,6 +708,7 @@ docker.elastic.co/kibana/kibana:7.0.0-rc2
 docker.elastic.co/kibana/kibana:7.0.1
 docker.elastic.co/kibana/kibana:7.1.0
 docker.elastic.co/kibana/kibana:7.1.1
+docker.elastic.co/kibana/kibana:7.2.0
 docker.elastic.co/kibana/kibana-oss:6.0.0
 docker.elastic.co/kibana/kibana-oss:6.0.1
 docker.elastic.co/kibana/kibana-oss:6.1.0
@@ -732,6 +750,7 @@ docker.elastic.co/kibana/kibana-oss:7.0.0-rc2
 docker.elastic.co/kibana/kibana-oss:7.0.1
 docker.elastic.co/kibana/kibana-oss:7.1.0
 docker.elastic.co/kibana/kibana-oss:7.1.1
+docker.elastic.co/kibana/kibana-oss:7.2.0
 docker.elastic.co/kibana/kibana-x-pack:6.0.0
 docker.elastic.co/kibana/kibana-x-pack:6.0.1
 docker.elastic.co/kibana/kibana-x-pack:6.1.0
@@ -807,6 +826,7 @@ docker.elastic.co/logstash/logstash:7.0.0-rc2
 docker.elastic.co/logstash/logstash:7.0.1
 docker.elastic.co/logstash/logstash:7.1.0
 docker.elastic.co/logstash/logstash:7.1.1
+docker.elastic.co/logstash/logstash:7.2.0
 docker.elastic.co/logstash/logstash-oss:6.0.0
 docker.elastic.co/logstash/logstash-oss:6.0.1
 docker.elastic.co/logstash/logstash-oss:6.1.0
@@ -848,6 +868,7 @@ docker.elastic.co/logstash/logstash-oss:7.0.0-rc2
 docker.elastic.co/logstash/logstash-oss:7.0.1
 docker.elastic.co/logstash/logstash-oss:7.1.0
 docker.elastic.co/logstash/logstash-oss:7.1.1
+docker.elastic.co/logstash/logstash-oss:7.2.0
 docker.elastic.co/logstash/logstash-x-pack:6.0.0
 docker.elastic.co/logstash/logstash-x-pack:6.0.1
 docker.elastic.co/logstash/logstash-x-pack:6.1.0
@@ -902,6 +923,7 @@ k8s.gcr.io/pause:3.1
 k8s.gcr.io/spartakus-amd64:v1.0.0
 kong-docker-kubernetes-ingress-controller.bintray.io/kong-ingress-controller:0.3.0
 kong-docker-kubernetes-ingress-controller.bintray.io/kong-ingress-controller:0.4.0
+kong-docker-kubernetes-ingress-controller.bintray.io/kong-ingress-controller:0.5.0
 quay.io/bitnami/sealed-secrets-controller:v0.7.0
 quay.io/comcast/kuberhealthy:v1.0.2
 quay.io/coreos/configmap-reload:v0.0.1
