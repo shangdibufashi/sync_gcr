@@ -998,6 +998,7 @@ quay.io/thomasjungblut/tfs-inception:tfs-1.8.0-cpu
 quay.io/thomasjungblut/tfs-inception:tfs-1.8.0-gpu
 quay.io/uswitch/kiam:v3.0
 quay.io/uswitch/kiam:v3.2
+quay.io/uswitch/kiam:v3.3
 quay.io/weaveworks/kured:1.1.0
 quay.io/weaveworks/kured:1.1.0docker.elastic.co/apm/apm-server:6.1.4
 quay.io/weaveworks/launcher-agent:1.1.0
