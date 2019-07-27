@@ -928,6 +928,7 @@ kong-docker-kubernetes-ingress-controller.bintray.io/kong-ingress-controller:0.4
 kong-docker-kubernetes-ingress-controller.bintray.io/kong-ingress-controller:0.5.0
 quay.io/bitnami/sealed-secrets-controller:v0.7.0
 quay.io/bitnami/sealed-secrets-controller:v0.8.0
+quay.io/bitnami/sealed-secrets-controller:v0.8.1
 quay.io/comcast/kuberhealthy:v1.0.2
 quay.io/coreos/configmap-reload:v0.0.1
 quay.io/coreos/etcd-operator:v0.9.3
