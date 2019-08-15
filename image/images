@@ -1025,6 +1025,7 @@ quay.io/datawire/ambassador:0.72.0
 quay.io/datawire/ambassador:0.73.0
 quay.io/datawire/ambassador:0.74.0
 quay.io/datawire/ambassador:0.74.1
+quay.io/datawire/ambassador:0.75.0
 quay.io/datawire/ambassador_pro:amb-sidecar-0.4.0
 quay.io/datawire/ambassador_pro:amb-sidecar-0.5.0
 quay.io/datawire/ambassador_pro:amb-sidecar-0.6.0
@@ -1047,6 +1048,7 @@ quay.io/kubernetes-ingress-controller/nginx-ingress-controller:0.23.0
 quay.io/kubernetes-ingress-controller/nginx-ingress-controller:0.24.0
 quay.io/kubernetes-ingress-controller/nginx-ingress-controller:0.24.1
 quay.io/kubernetes-ingress-controller/nginx-ingress-controller:0.25.0
+quay.io/kubernetes-ingress-controller/nginx-ingress-controller:0.25.1
 quay.io/monax/db:0.17.1
 quay.io/monax/hoard:3.0.1
 quay.io/munnerz/apiextensions-ca-helper:v0.1.0
