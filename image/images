@@ -1037,6 +1037,7 @@ k8s.gcr.io/defaultbackend:1.4
 k8s.gcr.io/defaultbackend-amd64:1.5
 k8s.gcr.io/etcd-amd64:2.2.5
 k8s.gcr.io/etcd-amd64:2.3.7
+k8s.gcr.io/etcd-amd64:3.2.26
 k8s.gcr.io/heapster-amd64:v1.5.4
 k8s.gcr.io/heapster:v1.5.2
 k8s.gcr.io/hyperkube:v1.12.1
