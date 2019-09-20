@@ -1144,6 +1144,7 @@ quay.io/pusher/k8s-spot-rescheduler:v0.2.0
 quay.io/pusher/oauth2_proxy:v3.1.0
 quay.io/pusher/oauth2_proxy:v3.2.0
 quay.io/samsung_cnct/jenkins-operator:0.1.12
+quay.io/samsung_cnct/jenkins-operator:0.3.0
 quay.io/signalfx/signalfx-agent:
 quay.io/thomasjungblut/tfs-inception:tfs-1.8.0-cpu
 quay.io/thomasjungblut/tfs-inception:tfs-1.8.0-gpu
