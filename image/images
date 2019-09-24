@@ -1032,6 +1032,7 @@ gcr.io/spinnaker-marketplace/halyard:1.20.2
 k8s.gcr.io/addon-resizer:1.7
 k8s.gcr.io/cluster-autoscaler:v0.6.1
 k8s.gcr.io/cluster-autoscaler:v1.13.1
+k8s.gcr.io/cluster-autoscaler:v1.13.7
 k8s.gcr.io/defaultbackend:1.0
 k8s.gcr.io/defaultbackend:1.4
 k8s.gcr.io/defaultbackend-amd64:1.5
