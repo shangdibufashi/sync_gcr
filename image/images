@@ -1160,6 +1160,7 @@ quay.io/kubernetes-ingress-controller/nginx-ingress-controller:0.25.1
 quay.io/kubernetes-ingress-controller/nginx-ingress-controller:0.26.1
 quay.io/monax/db:0.17.1
 quay.io/monax/hoard:3.0.1
+quay.io/monax/hoard:6.0.0
 quay.io/munnerz/apiextensions-ca-helper:v0.1.0
 quay.io/pires/docker-elasticsearch-curator:5.5.4
 quay.io/prometheus/alertmanager:v0.16.1
