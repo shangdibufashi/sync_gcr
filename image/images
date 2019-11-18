@@ -1092,6 +1092,7 @@ gcr.io/cloud-solutions-images/janusgraph:v2
 gcr.io/cloudsql-docker/gce-proxy:1.12
 gcr.io/google_containers/busybox:1.27
 gcr.io/google_containers/defaultbackend:1.0
+gcr.io/google-containers/exechealthz:1.2
 gcr.io/google-containers/fluentd-elasticsearch:an
 gcr.io/google-containers/fluentd-elasticsearch:v2.3.1
 gcr.io/google-containers/fluentd-elasticsearch:v2.4.0
