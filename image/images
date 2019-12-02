@@ -1171,6 +1171,7 @@ quay.io/bitnami/sealed-secrets-controller:v0.8.1
 quay.io/bitnami/sealed-secrets-controller:v0.8.2
 quay.io/bitnami/sealed-secrets-controller:v0.9.1
 quay.io/bitnami/sealed-secrets-controller:v0.9.5
+quay.io/bitnami/sealed-secrets-controller:v0.9.6
 quay.io/comcast/kuberhealthy:v1.0.2
 quay.io/coreos/configmap-reload:v0.0.1
 quay.io/coreos/etcd-operator:v0.9.3
