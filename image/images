@@ -1229,6 +1229,7 @@ kong-docker-kubernetes-ingress-controller.bintray.io/kong-ingress-controller:0.4
 kong-docker-kubernetes-ingress-controller.bintray.io/kong-ingress-controller:0.5.0
 kong-docker-kubernetes-ingress-controller.bintray.io/kong-ingress-controller:0.6.0
 kong-docker-kubernetes-ingress-controller.bintray.io/kong-ingress-controller:0.6.2
+kong-docker-kubernetes-ingress-controller.bintray.io/kong-ingress-controller:0.7.0
 quay.io/bitnami/sealed-secrets-controller:v0.7.0
 quay.io/bitnami/sealed-secrets-controller:v0.8.0
 quay.io/bitnami/sealed-secrets-controller:v0.8.1
