@@ -1250,6 +1250,7 @@ quay.io/coreos/kube-state-metrics:v1.7.2
 quay.io/coreos/kube-state-metrics:v1.8.0
 quay.io/coreos/kube-state-metrics:v1.9.0
 quay.io/coreos/kube-state-metrics:v1.9.1
+quay.io/coreos/kube-state-metrics:v1.9.2
 quay.io/coreos/prometheus-config-reloader:v0.29.0
 quay.io/coreos/prometheus-config-reloader:v0.30.0
 quay.io/coreos/prometheus-config-reloader:v0.30.1
