@@ -1,7 +1,7 @@
 #!/bin/bash
 cd `dirname $0 && pwd`
 echo 'helm/charts'
-[ ! -d './charts' ] && echo 'git clone git@github.com:helm/charts.git' && git clone git@github.com:helm/charts.git
+[ ! -d './charts' ] && echo 'git clone https://github.com/helm/charts.git' && git clone https://github.com/helm/charts.git
 ls -al
 find ./charts/ -name '*.yaml'  | \
 	xargs -n1 egrep -v '^\s+#|^\s*-' | \
@@ -13,7 +13,7 @@ find ./charts/ -name '*.yaml'  | \
 	sort | \
 	uniq | \
 	awk '{print $2":"$4}' | \
-	egrep  '\d+$' >> images
+	egrep  -v 'IfNotPresent' >> images
 
 echo 'elastic.co'
 curl 'https://www.docker.elastic.co/' | \
