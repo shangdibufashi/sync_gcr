@@ -1341,6 +1341,7 @@ quay.io/jetstack/cert-manager-webhook:v0.6.2
 quay.io/kubernetes_incubator/nfs-provisioner:v1.0.9
 quay.io/kubernetes_incubator/nfs-provisioner:v2.2.1-k8s1.12
 quay.io/kubernetes_incubator/nfs-provisioner:v2.2.2
+quay.io/kubernetes_incubator/nfs-provisioner:v2.3.0
 quay.io/kubernetes-ingress-controller/custom-error-pages-amd64:0.3
 quay.io/kubernetes-ingress-controller/nginx-ingress-controller:0.22.0
 quay.io/kubernetes-ingress-controller/nginx-ingress-controller:0.23.0
