@@ -1289,6 +1289,7 @@ k8s.gcr.io/cluster-autoscaler:v1.13.1
 k8s.gcr.io/cluster-autoscaler:v1.13.7
 k8s.gcr.io/cluster-autoscaler:v1.14.5
 k8s.gcr.io/cluster-autoscaler:v1.14.6
+k8s.gcr.io/cluster-autoscaler:v1.17.1
 k8s.gcr.io/cluster-proportional-autoscaler-amd64:1.7.1
 k8s.gcr.io/defaultbackend:1.0
 k8s.gcr.io/defaultbackend:1.4
