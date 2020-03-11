@@ -1308,6 +1308,7 @@ k8s.gcr.io/nginx-ingress-controller:0.8.3
 k8s.gcr.io/node-problem-detector:v0.6.1
 k8s.gcr.io/node-problem-detector:v0.6.3
 k8s.gcr.io/node-problem-detector:v0.7.0
+k8s.gcr.io/node-problem-detector:v0.8.1
 k8s.gcr.io/pause:3.1
 k8s.gcr.io/spartakus-amd64:v1.0.0
 kong-docker-kubernetes-ingress-controller.bintray.io/kong-ingress-controller:0.3.0
@@ -1350,6 +1351,7 @@ quay.io/coreos/prometheus-config-reloader:v0.32.0
 quay.io/coreos/prometheus-config-reloader:v0.34.0
 quay.io/coreos/prometheus-config-reloader:v0.35.0
 quay.io/coreos/prometheus-config-reloader:v0.36.0
+quay.io/coreos/prometheus-config-reloader:v0.37.0
 quay.io/coreos/prometheus-operator:v0.29.0
 quay.io/coreos/prometheus-operator:v0.30.0
 quay.io/coreos/prometheus-operator:v0.30.1
@@ -1358,6 +1360,7 @@ quay.io/coreos/prometheus-operator:v0.32.0
 quay.io/coreos/prometheus-operator:v0.34.0
 quay.io/coreos/prometheus-operator:v0.35.0
 quay.io/coreos/prometheus-operator:v0.36.0
+quay.io/coreos/prometheus-operator:v0.37.0
 quay.io/coreos/vault-operator:0.1.9
 quay.io/coreos/zetcd:v0.0.3
 quay.io/datawire/ambassador:0.50.3
