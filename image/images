@@ -1498,6 +1498,7 @@ quay.io/pusher/oauth2_proxy:v3.1.0
 quay.io/pusher/oauth2_proxy:v3.2.0
 quay.io/pusher/oauth2_proxy:v4.0.0
 quay.io/pusher/oauth2_proxy:v5.0.0
+quay.io/pusher/oauth2_proxy:v5.1.0
 quay.io/samsung_cnct/jenkins-operator:0.1.12
 quay.io/samsung_cnct/jenkins-operator:0.3.0
 quay.io/signalfx/signalfx-agent:
