@@ -1360,6 +1360,7 @@ kong-docker-kubernetes-ingress-controller.bintray.io/kong-ingress-controller:0.6
 kong-docker-kubernetes-ingress-controller.bintray.io/kong-ingress-controller:0.6.2
 kong-docker-kubernetes-ingress-controller.bintray.io/kong-ingress-controller:0.7.0
 quay.io/bitnami/sealed-secrets-controller:v0.10.0
+quay.io/bitnami/sealed-secrets-controller:v0.12.1
 quay.io/bitnami/sealed-secrets-controller:v0.7.0
 quay.io/bitnami/sealed-secrets-controller:v0.8.0
 quay.io/bitnami/sealed-secrets-controller:v0.8.1
@@ -1494,6 +1495,7 @@ quay.io/prometheus/prometheus:v2.7.1
 quay.io/prometheus/prometheus:v2.7.2
 quay.io/prometheus/prometheus:v2.9.1
 quay.io/pusher/k8s-spot-rescheduler:v0.2.0
+quay.io/pusher/k8s-spot-rescheduler:v0.3.0
 quay.io/pusher/oauth2_proxy:v3.1.0
 quay.io/pusher/oauth2_proxy:v3.2.0
 quay.io/pusher/oauth2_proxy:v4.0.0
