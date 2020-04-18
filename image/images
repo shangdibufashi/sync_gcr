@@ -1325,6 +1325,7 @@ gcr.io/spinnaker-marketplace/halyard:1.16.0
 gcr.io/spinnaker-marketplace/halyard:1.20.2
 gcr.io/spinnaker-marketplace/halyard:1.23.2
 gcr.io/spinnaker-marketplace/halyard:1.31.1
+gcr.io/spinnaker-marketplace/halyard:1.32.0
 k8s.gcr.io/addon-resizer:1.7
 k8s.gcr.io/cluster-autoscaler:v0.6.1
 k8s.gcr.io/cluster-autoscaler:v1.13.1
@@ -1395,6 +1396,7 @@ quay.io/coreos/prometheus-config-reloader:v0.34.0
 quay.io/coreos/prometheus-config-reloader:v0.35.0
 quay.io/coreos/prometheus-config-reloader:v0.36.0
 quay.io/coreos/prometheus-config-reloader:v0.37.0
+quay.io/coreos/prometheus-config-reloader:v0.38.1
 quay.io/coreos/prometheus-operator:v0.29.0
 quay.io/coreos/prometheus-operator:v0.30.0
 quay.io/coreos/prometheus-operator:v0.30.1
@@ -1404,6 +1406,7 @@ quay.io/coreos/prometheus-operator:v0.34.0
 quay.io/coreos/prometheus-operator:v0.35.0
 quay.io/coreos/prometheus-operator:v0.36.0
 quay.io/coreos/prometheus-operator:v0.37.0
+quay.io/coreos/prometheus-operator:v0.38.1
 quay.io/coreos/vault-operator:0.1.9
 quay.io/coreos/zetcd:v0.0.3
 quay.io/datawire/ambassador:0.50.3
@@ -1491,6 +1494,7 @@ quay.io/prometheus/prometheus:v2.10.0
 quay.io/prometheus/prometheus:v2.12.0
 quay.io/prometheus/prometheus:v2.13.1
 quay.io/prometheus/prometheus:v2.15.2
+quay.io/prometheus/prometheus:v2.16.0
 quay.io/prometheus/prometheus:v2.7.1
 quay.io/prometheus/prometheus:v2.7.2
 quay.io/prometheus/prometheus:v2.9.1
