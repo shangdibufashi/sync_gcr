@@ -1430,6 +1430,7 @@ quay.io/coreos/kube-state-metrics:v1.9.2
 quay.io/coreos/kube-state-metrics:v1.9.3
 quay.io/coreos/kube-state-metrics:v1.9.4
 quay.io/coreos/kube-state-metrics:v1.9.5
+quay.io/coreos/kube-state-metrics:v1.9.6
 quay.io/coreos/prometheus-config-reloader:v0.29.0
 quay.io/coreos/prometheus-config-reloader:v0.30.0
 quay.io/coreos/prometheus-config-reloader:v0.30.1
@@ -1518,6 +1519,7 @@ quay.io/kubernetes-ingress-controller/nginx-ingress-controller:0.27.1
 quay.io/kubernetes-ingress-controller/nginx-ingress-controller:0.28.0
 quay.io/kubernetes-ingress-controller/nginx-ingress-controller:0.29.0
 quay.io/kubernetes-ingress-controller/nginx-ingress-controller:0.30.0
+quay.io/kubernetes-ingress-controller/nginx-ingress-controller:0.32.0
 quay.io/monax/db:0.17.1
 quay.io/monax/hoard:3.0.1
 quay.io/monax/hoard:6.0.0
