@@ -1584,6 +1584,7 @@ quay.io/prometheus/prometheus:v2.13.1
 quay.io/prometheus/prometheus:v2.15.2
 quay.io/prometheus/prometheus:v2.16.0
 quay.io/prometheus/prometheus:v2.17.2
+quay.io/prometheus/prometheus:v2.18.1
 quay.io/prometheus/prometheus:v2.7.1
 quay.io/prometheus/prometheus:v2.7.2
 quay.io/prometheus/prometheus:v2.9.1
