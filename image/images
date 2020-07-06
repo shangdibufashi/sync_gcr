@@ -1426,6 +1426,7 @@ k8s.gcr.io/etcd-amd64:3.2.26
 k8s.gcr.io/heapster-amd64:v1.5.4
 k8s.gcr.io/heapster:v1.5.2
 k8s.gcr.io/hyperkube:v1.12.1
+k8s.gcr.io/hyperkube:v1.16.12
 k8s.gcr.io/ingress-gce-glbc-amd64:v1.4.0
 k8s.gcr.io/kube-registry-proxy:0.4
 k8s.gcr.io/kubernetes-dashboard-amd64:v1.10.1
@@ -1447,6 +1448,7 @@ kong-docker-kubernetes-ingress-controller.bintray.io/kong-ingress-controller:0.7
 quay.io/:
 quay.io/bitnami/sealed-secrets-controller:v0.10.0
 quay.io/bitnami/sealed-secrets-controller:v0.12.1
+quay.io/bitnami/sealed-secrets-controller:v0.12.4
 quay.io/bitnami/sealed-secrets-controller:v0.7.0
 quay.io/bitnami/sealed-secrets-controller:v0.8.0
 quay.io/bitnami/sealed-secrets-controller:v0.8.1
