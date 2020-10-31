@@ -1449,6 +1449,7 @@ quay.io/:
 quay.io/bitnami/sealed-secrets-controller:v0.10.0
 quay.io/bitnami/sealed-secrets-controller:v0.12.1
 quay.io/bitnami/sealed-secrets-controller:v0.12.4
+quay.io/bitnami/sealed-secrets-controller:v0.13.1
 quay.io/bitnami/sealed-secrets-controller:v0.7.0
 quay.io/bitnami/sealed-secrets-controller:v0.8.0
 quay.io/bitnami/sealed-secrets-controller:v0.8.1
